@@ -1,0 +1,1488 @@
+market_id,question,description,outcomes,end_date,volume,ground_truth,ground_truth_label,final_prices,slug
+1345824,"Will the price of Bitcoin be above $72,000 on February 13?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-13T17:00:00Z,999989.66,0,No,"[0.0, 1.0]",bitcoin-above-72k-on-february-13
+1369878,"Will Elon Musk post 90-114 tweets from February 14 to February 16, 2026?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from February 14 12:00 PM ET to February 16, 2026 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2026-02-16T17:00:00Z,999970.61,0,No,"[0.0, 1.0]",elon-musk-of-tweets-february-14-february-16-90-114
+1427388,Will the highest temperature in London be 18°C on February 25?,"This market will resolve to the temperature range that contains the highest temperature recorded at the London City Airport Station in degrees Celsius on 25 Feb '26.
+
+The resolution source for this market will be information from Wunderground, specifically the highest temperature recorded for all times on this day by the Forecast for the London City Airport Station once information is finalized, available here: https://www.wunderground.com/history/daily/gb/london/EGLC.
+
+To toggle between Fahrenheit and Celsius, click the gear icon next to the search bar and switch the Temperature setting between °F and °C.
+
+This market can not resolve to ""Yes"" until all data for this date has been finalized.
+
+The resolution source for this market measures temperatures to whole degrees Celsius (eg, 9°C). Thus, this is the level of precision that will be used when resolving the market.
+
+Any revisions to temperatures recorded after data is finalized for this market's timeframe will not be considered for this market's resolution.","[""Yes"", ""No""]",2026-02-25T12:00:00Z,99995.33,0,No,"[0.0, 1.0]",highest-temperature-in-london-on-february-25-2026-18c
+537914,"Will Trump pardon Joe Exotic ""The Tiger King"" in 2025?","This market will resolve to ""Yes"" if the listed individual receives a presidential pardon, commutation, or reprieve from Donald Trump by December 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+The primary resolution source for whether the individual is pardoned or not will be official information from the US government, however a consensus of credible reporting will also be used.","[""Yes"", ""No""]",2025-12-31T12:00:00Z,99993.94,0,No,"[0.0, 1.0]",will-trump-pardon-joe-exotic-the-tiger-king-in-2025-784-928-365
+521497,Will Russia capture territory in Dnipropetrovsk Oblast by February 28?,"This market will resolve to “Yes” if, according to the ISW map, Russia captures any territory in Dnipropetrovsk Oblast by February 28, 2025 at 11:59 PM ET.
+
+Territory will will be considered captured if any part of Dnipropetrovsk Oblast shaded red on the ISW map (https://storymaps.arcgis.com/stories/36a7f6a6f5a9448496de641cf64bd375) by the resolution date. If the area is not shaded red by February 28, 2025, 11:59 PM ET, the market will resolve to “No”.
+
+The border between Oblasts shaded in light purple on the ISW map will not qualify. Territory across the Oblast border must be shaded red to count. 
+
+Once Russia captures territory in Dnipropetrovsk Oblast, any subsequent loss of control will not be considered towards the resolution of this market.
+
+If Russia comes into control of territory in Dnipropetrovsk Oblast as a result of a negotiated settlement, this will qualify for a 'Yes' resolution, regardless of if it is shaded red in the ISW map. However, an announcement of a negotiated settlement which gives Russia de jure control will not qualify. Actual control must be established
+
+The primary resolution source for this market will be the ISW Ukraine map. If the ISW map is rendered unavailable, information from DeepStateMap (https://deepstatemap.live/) may be used. If information from both the ISW and DeepStateMap are rendered permanently unavailable, a consensus of credible reporting may be used.
+
+Note: Any temporary glitches or errors in the map which will not be considered.","[""Yes"", ""No""]",2025-02-28T12:00:00Z,99988.14,0,No,"[0.0, 1.0]",will-russia-capture-territory-in-dnipro-oblast-by-february-28
+543510,Will Manchester United win on 2025-05-25?,"In the upcoming EPL game, scheduled for May 25 at 11:00AM ET,
+If Manchester United wins, this market will resolve to “Yes”.
+If Manchester United loses, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-05-25T15:00:00Z,99983.02,1,Yes,"[1.0, 0.0]",epl-mun-ast-2025-05-25-mun
+1366821,Will FC Internazionale Milano win on 2026-02-24?,"In the upcoming game, scheduled for February 24, 2026
+If FC Internazionale Milano wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-02-24T20:00:00Z,999801.04,0,No,"[0.0, 1.0]",ucl-int2-bog1-2026-02-24-int2
+507875,Will the Milwaukee Bucks win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Milwaukee Bucks win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.","[""Yes"", ""No""]",2025-06-23T12:00:00Z,9997936.82,0,No,"[0.0, 1.0]",will-the-milwaukee-bucks-win-the-2025-nba-finals
+670664,"Will Elon Musk post 280-299 tweets from November 11 to November 18, 2025?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from November 11 12:00 PM ET to November 18, 2025 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://www.xtracker.io/. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2025-11-18T17:00:00Z,999733.05,0,No,"[0.0, 1.0]",elon-musk-of-tweets-november-11-november-18-280-299
+1220929,"Will the price of Bitcoin be between $98,000 and $100,000 on January 26?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2026-01-26T17:00:00Z,99959.31,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-between-98000-100000-on-january-26
+1340094,Superform FDV above $100M one day after launch?,"This market will resolve to ""Yes"" if the Fully Diluted Valuation of Superform's governance token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to ""No.""
+
+The token must be actively, publicly transferable and tradable to be considered a launch.
+
+The FDV will be determined using the total token supply multiplied by the token price.
+
+""1 day after launch"" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Superform (https://x.com/superformxyz) doesn't launch a token by December 31, 2026, 11:59 PM ET, this market will resolve to ""No"".","[""Yes"", ""No""]",2027-01-01T05:00:00Z,99958.02,0,No,"[0.0, 1.0]",superform-fdv-above-100m-one-day-after-launch
+516877,"Will Ethereum hit $6,000 by December 31?","This market will immediately resolve to ""Yes"" if any Binance 1 minute candle for Ethereum (ETHUSDT) between December 30, 2024, 21:00 and December 31, 2025, 23:59 in the ET timezone has a final ""High"" price of $6,000.00 or higher. Otherwise, this market will resolve to ""No.""
+
+The resolution source for this market is Binance, specifically the ETHUSDT ""High"" prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on ""1m"" for one-minute candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance ETHUSDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2025-12-31T12:00:00Z,9995564.2,0,No,"[0.0, 1.0]",will-ethereum-hit-6000-by-december-31-843-315
+1082090,Ethereum Up or Down on January 3?,"This market will resolve to ""Up"" if the ""Close"" price for the Binance 1 minute candle for ETH/USDT Jan 2 '26 12:00 in the ET timezone (noon) is lower than the final ""Close"" price for the Jan 3 '26 12:00 ET candle.
+
+This market will resolve to ""Down"" if the ""Close"" price for the Binance 1 minute candle for ETH/USDT Jan 2 '26 12:00 in the ET timezone (noon) is higher than the final ""Close"" price for the Jan 3 '26 12:00 ET candle.
+
+If the final ""Close"" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Up"", ""Down""]",2026-01-03T17:00:00Z,99948.38,0,Down,"[0.0, 1.0]",ethereum-up-or-down-on-january-3
+552846,Will Palmeiras beat Al Ahly?,"In the upcoming FIFA Club World Cup game, scheduled for June 19 at 12:00 PM ET,
+If Palmeiras wins, this market will resolve to “Yes”.
+Otherwise this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.","[""Yes"", ""No""]",2025-06-19T00:00:00Z,99941.89,1,Yes,"[1.0, 0.0]",will-palmeiras-beat-al-ahly
+1422373,Will the US strike Colombia next?,"This market will resolve according to the first country against which the US initiates a drone, missile, or air strike on the soil or any official embassy or consulate after the time of this market's creation.
+
+For the purposes of this market, a qualifying ""strike"" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any United States operatives, including military forces, intelligence agencies, or other U.S. government operatives, that physically impact ground territory within the listed country.
+
+A strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.
+
+Missiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a ""Yes"" resolution, regardless of whether they land on the listed country's territory or cause damage.
+
+Actions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.
+
+If the U.S. does not strike another country by December 31, 2026, 11:59 PM ET, this market will resolve to ""None before 2027"". If the U.S. strikes a country that is not listed next, this market will resolve to ""Other"".
+
+This market will remain open until 5:00 PM ET on the day following the initial announcement/reporting in order to account for the possibility of an earlier strike. 
+
+In cases where the precise time of a strike is not confirmed by U.S. government sources the following standards will be applied: 
+
+If a strike is announced as happening on a specified date without an exact time, the market will resolve based on the time of the strike based on a consensus of credible reporting. If the timing of the strike cannot be determined by a consensus of credible reporting by 5:00 PM ET on the day following the initial announcement/reporting, the strike will be considered to have occurred on the reported date at 12:00","[""Yes"", ""No""]",2026-12-31T00:00:00Z,99940.58,0,No,"[0.0, 1.0]",will-the-us-strike-colombia-next-731
+705831,"Will the price of Bitcoin be between $88,000 and $90,000 on December 3?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-12-03T17:00:00Z,99934.43,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-between-88000-90000-on-december-3
+610712,Will Club Brugge win on 2025-09-30?,"In the upcoming UCL game, scheduled for September 30 at 12:45PM ET,
+If Club Brugge wins, this market will resolve to “Yes”.
+If Club Brugge loses, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-09-30T16:45:00Z,99932.74,0,No,"[0.0, 1.0]",ucl-ata-bru-2025-09-30-bru
+690178,Aztec FDV above $1.5B one day after launch?,"This market will resolve to ""Yes"" if the Fully Diluted Valuation of Aztec's token is greater than the value specified in the title 1 day after launch. Otherwise, the market will resolve to ""No.""
+
+The token must be actively, publicly transferable and tradable to be considered a launch.
+
+""1 day after launch"" is defined as 4:00 PM ET on the calendar day following launch. The resolution source for this market is the most liquid price source available. If Aztec (https://aztec.network/) doesn't launch a token by December 31, 2026, 11:59 PM ET, this market will resolve to ""No"".","[""Yes"", ""No""]",2027-01-01T05:00:00Z,99926.67,0,No,"[0.0, 1.0]",aztec-fdv-above-1pt5b-one-day-after-launch-214-724
+1015956,Will Crystal Palace FC vs. Aston Villa FC end in a draw?,"In the upcoming game, scheduled for January 7, 2026
+If the game ends in a draw, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve to ""Yes"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-01-07T19:30:00Z,99916.14,1,Yes,"[1.0, 0.0]",epl-cry-ast-2026-01-07-draw
+1087423,Will Iga Świątek win the 2026 Women's Australian Open?,"The 2026 Australian Open is set to take place from January 12 - February 1, 2026.
+
+This market will resolve to the player that wins the 2026 Australian Open Women’s Singles Tournament.
+
+If at any point it becomes impossible for a listed player to win the 2026 Australian Open Women’s Singles Tournament per the rules of the tournament, the corresponding market will resolve to “No”.
+
+If the 2026 Australian Open Women’s Singles Tournament is cancelled, postponed after February 28, 2026, or there is otherwise no winner declared within that timeframe, this market will resolve to “Other”.
+
+The primary resolution source will be official information from the Australian Open (https://ausopen.com/); however, a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2026-01-31T00:00:00Z,99907.28,0,No,"[0.0, 1.0]",will-iga-witek-win-the-2026-womens-australian-open
+515939,Israel and Saudi Arabia normalize relations before April?,"This market will resolve to ""Yes"" if both Israel and the Kingdom of Saudi Arabia officially announce the establishment of diplomatic relations between December 16, 2024, and March 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+The primary resolution source for this market will be official information from Israel and the Kingdom of Saudi Arabia, however a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2025-03-31T12:00:00Z,999034.2,0,No,"[0.0, 1.0]",israel-and-saudi-arabia-normalize-relations-before-may
+1273909,"Will the US next strike Iran on February 4, 2026 (ET)?","This market will resolve according to the next date (ET) the US initiates a drone, missile, or air strike on Iranian soil or any official Iranian embassy or consulate between market creation and February 28, 2026, (ET). 
+
+If the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting within 48 hours of the listed date, the respective market will resolve to ""No"" regardless of whether a strike is later confirmed to have occurred. If no strike could be verified under the prior rule by 48 hours after this market's end date, it will resolve to ""No strike by February 28,"" regardless of whether a strike is later confirmed to have occurred.
+
+For the purposes of this market, a qualifying ""strike"" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by US military forces that impact Iranian ground territory or any official Iranian embassy or consulate (e.g., if a weapons depot on Iranian soil is hit by an US missile, this will qualify).
+
+Missiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient, regardless of whether they land on Iranian territory or cause damage.
+
+Actions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by US ground operatives will not qualify.
+
+The resolution source will be a consensus of credible reporting.","[""Yes"", ""No""]",2026-02-28T00:00:00Z,999004.6,0,No,"[0.0, 1.0]",will-the-us-next-strike-iran-on-february-4-2026-et
+619255,Will the price of Solana be between $180 and $190 on October 8?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-10-08T16:00:00Z,998961.61,0,No,"[0.0, 1.0]",will-the-price-of-solana-be-between-180-190-on-october-8
+507890, Will the Phoenix Suns win the 2025 NBA Finals?,"This market will resolve to “Yes” if the Phoenix Suns win the 2024-2025 NBA Championship. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to become 2024-25 NBA Champion based off the rules of the NBA.
+
+The resolution source for this market will be information from the NBA.","[""Yes"", ""No""]",2025-06-23T12:00:00Z,9988733.1,0,No,"[0.0, 1.0]",will-the-phoenix-suns-win-the-2025-nba-finals
+964389,"Will the price of Ethereum be between $2,500 and $2,600 on December 25?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-12-25T17:00:00Z,99884.67,0,No,"[0.0, 1.0]",will-the-price-of-ethereum-be-between-2500-2600-on-december-25
+518409,Will global temperature increase by between 1.20-1.24ºC in January 2025?,"This market will resolve to ""Yes"" if the data for the Global Land-Ocean Temperature Index for January 2025 shows an increase of between 1.20°C and 1.24°C when it is released. Otherwise, this market will resolve to ""No"".
+
+An anomaly of between 1.20°C and 1.24°C for January 2025 is necessary and sufficient to resolve this market to ""Yes"" immediately once the data becomes available regardless of whether the figure for January 2025 is later revised.
+
+The primary resolution source for this market will be the figure found in the table titled ""GLOBAL Land-Ocean Temperature Index in 0.01 degrees Celsius"" under the column ""Jan"" in the row ""2025"" (https://data.giss.nasa.gov/gistemp/tabledata_v4/GLB.Ts+dSST.txt). If NASA's ""Global Temperature Index"" is rendered permanently unavailable, other information from NASA may be used. If no information for January 2025 is provided by NASA by May 1, 2025, 11:59 PM ET, this market will resolve ""No"".","[""Yes"", ""No""]",2025-01-31T12:00:00Z,998803.06,0,No,"[0.0, 1.0]",will-global-temperature-increase-by-between-1pt20-1pt24c-in-january-2025
+518131,Will Trump save TikTok in first 100 days?,"This market will resolve to ""Yes"" if Donald Trump as President of the United States signs any federal legislation or performs any executive action by April 29, 2025, 11:59 PM ET that has the effect of overturning or delaying the enforcement of the federal law mandating TikTok’s sale or ban. Otherwise, this market will resolve to ""No"".
+
+Any law or executive action meeting these criteria will count, even if its implementation is immediately halted or delayed by judicial or other actions.
+
+Any bill signed into law or executive action taken within this market's time frame will qualify, regardless of when the law or action goes into effect.
+
+This market's resolution source will be official information from the Trump administration.
+","[""Yes"", ""No""]",2025-04-29T12:00:00Z,99878.99,1,Yes,"[1.0, 0.0]",will-trump-save-tiktok-in-first-100-days
+528092,Will the price of Bitcoin be greater than $87000 on Mar 21?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTCUSDT 21 Mar '25 12:00 in the ET timezone (noon). Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTCUSDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTCUSDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-03-21T12:00:00Z,998771.15,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-greater-than-87000-on-mar-21
+1413558,Will the highest temperature in London be 13°C on February 24?,"This market will resolve to the temperature range that contains the highest temperature recorded at the London City Airport Station in degrees Celsius on 24 Feb '26.
+
+The resolution source for this market will be information from Wunderground, specifically the highest temperature recorded for all times on this day by the Forecast for the London City Airport Station once information is finalized, available here: https://www.wunderground.com/history/daily/gb/london/EGLC.
+
+To toggle between Fahrenheit and Celsius, click the gear icon next to the search bar and switch the Temperature setting between °F and °C.
+
+This market can not resolve to ""Yes"" until all data for this date has been finalized.
+
+The resolution source for this market measures temperatures to whole degrees Celsius (eg, 9°C). Thus, this is the level of precision that will be used when resolving the market.
+
+Any revisions to temperatures recorded after data is finalized for this market's timeframe will not be considered for this market's resolution.","[""Yes"", ""No""]",2026-02-24T12:00:00Z,99875.37,0,No,"[0.0, 1.0]",highest-temperature-in-london-on-february-24-2026-13c
+1320351,"Will the price of Bitcoin be between $72,000 and $74,000 on February 9?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2026-02-09T17:00:00Z,99866.66,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-between-72000-74000-on-february-9
+618974,Will Ethereum reach $5600 in October?,"This market will immediately resolve to ""Yes"" if any Binance 1 minute candle for Ethereum (ETH/USDT) during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final ""High"" price equal to or greater than the price specified in the title. Otherwise, this market will resolve to ""No.""
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""High"" prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on ""1m"" for one-minute candles selected on the top bar
+
+Please note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2025-11-01T04:00:00Z,998599.89,0,No,"[0.0, 1.0]",will-ethereum-reach-5600-in-october
+1300553,"Will Trump say ""Six Seven"" this week? (February 8)","This market will resolve to “Yes” if Donald Trump mentions the listed term between February 2, 2026, 12:00 AM ET and February 8, 2026, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+Pluralization/possessive of the word will count toward the resolution of this market.
+
+Instances where the term is used in a compound word will count regardless of context (e.g. joyful is not a compound word for ""joy,"" however ""killjoy"" is a compounding of the words ""kill"" and ""joy"").
+
+If this market requires a specified number of mentions of a person’s first or last name, a full-name mention will count as one mention (e.g., if a market is about “Joe / Biden 5+ times,” a mention of “Joe Biden” will count once).
+
+A ‘mention’ will include any verbal mention which is recorded (audio or video) and publicly accessible.
+
+Written usages of terms (e.g. Truth Social posts, written statements, etc.) will not count toward this market's resolution.
+
+AI-generated audio or video will not count toward this market's resolution.
+
+Videos posted on his social media which were filmed outside this market's time frame will not qualify for a ""Yes"" resolution.","[""Yes"", ""No""]",2026-02-08T00:00:00Z,99845.72,1,Yes,"[1.0, 0.0]",will-trump-say-six-seven-this-week-february-8
+664715,Israel strike on Yemen by December 31?,"This market will resolve to ""Yes"" if Israel initiates a drone, missile, or air strike on Yemeni soil or any official Yemen embassy or consulate by December 31, 2025, 11:59 PM Israeli local time. Otherwise, this market will resolve to ""No"".
+
+For the purposes of this market, a qualifying ""strike"" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Israeli military forces that impact Yemen ground territory or any official Yemen embassy or consulate (e.g., if a weapons depot on Yemen soil is hit by an Israeli missile, this market will resolve to ""Yes"").
+
+Missiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a ""Yes"" resolution, regardless of whether they land on Yemen territory or cause damage.
+
+Actions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by Israeli ground operatives will not qualify.
+
+The resolution source will be a consensus of credible reporting.","[""Yes"", ""No""]",2025-12-31T00:00:00Z,99845.47,0,No,"[0.0, 1.0]",israel-strike-on-yemen-by-december-31
+522647,Will OpenAI buy X before July?,"On February 10, Sam Altman posted ""no thank you but we will buy twitter for $9.74 billion if you want"" (see: https://x.com/sama/status/1889059531625464090). 
+
+This market will resolve to ""Yes"" if it is announced that X (formerly Twitter) will be, has been, or is being acquired by or merged with OpenAI by June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+A merger in which X subsumes/acquires OpenAI will not qualify. 
+
+An formal announcement of an agreement will qualify for a ""Yes"" resolution, regardless of whether the announced acquisition/merger actually occurs.
+
+The primary resolution source for this market will be official information from Elon Musk, OpenAI or X, however a consensus of credible reporting may also be used.
+","[""Yes"", ""No""]",2025-06-30T12:00:00Z,99823.69,0,No,"[0.0, 1.0]",will-openai-acquire-x-before-july
+520424,"Will CDU/CSU, SPD, and BSW form the next German Government?","The next German federal election is scheduled to take place on February 23, 2025.
+
+This market will resolve to the first ruling coalition of parties that forms after the next German federal election.
+
+If the next German Coalition after the election is not announced by December 31, 2025, this market will resolve to ""No"".
+
+If a party does not meet fraktion threshold (5% of seats) it will not be counted as part of the coalition. For example, if CDU/CSU, SPD, & BSW form a coalition, but BSW is not a fraktion, the market would resolve to “CDU/CSU & SPD”.
+
+Any party which signs a coalition agreement which leads to the appointment of a Chancellor will be considered part of the coalition.
+
+This market will resolve based on a consensus of credible reporting. In case of ambiguity, this market will resolve based on official information from the German government, specifically the Federal Returning Officer (Bundeswahlleiter) (https://www.bundeswahlleiterin.de/en/). ","[""Yes"", ""No""]",2025-02-23T12:00:00Z,998204.59,0,No,"[0.0, 1.0]",will-cducsu-spd-and-bsw-form-the-next-german-government
+672129,Will Borussia Dortmund win on 2025-11-22?,"In the upcoming game, scheduled for November 22, 2025
+If Borussia Dortmund wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-11-22T14:30:00Z,99818.16,0,No,"[0.0, 1.0]",bun-dor-stu-2025-11-22-dor
+515919,Will 'Anora' win the Golden Globe for Best Screenplay?,"The 82nd Golden Globe Awards is scheduled for January 5, 2025.
+
+This market will resolve to ""Yes"" if Sean Baker wins the Golden Globe for Best Screenplay - Motion Picture for 'Anora'. Otherwise, this market will resolve to ""No"".
+
+If for any reason no winner is declared by June 30, 2025, 11:59 PM ET, this market will resolve to ""No"". In case of a tie for winner, this market will resolve in favor of the individual whose last name comes first in alphabetical order. If two people are listed under one title, the last name of the first person listed will be used.
+
+The primary resolution source for this market will be official information from Golden Globes, including data from their website (e.g. https://goldenglobes.com/) and the live broadcast of the award ceremony, however a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2025-01-05T12:00:00Z,99812.96,0,No,"[0.0, 1.0]",will-anora-win-the-golden-globe-for-best-screenplay
+531541,Will Trump announce tariffs on Venezuela on April 2?,"This market will resolve to “Yes” if Donald Trump or his administration officially announces that the U.S. government will impose any new or increased tariffs on the listed country on April 2, 2025 ET. Otherwise, this market will resolve to “No”.
+
+Any tariff which is officially announced within the market's time frame will qualify, regardless of if/when the tariff goes into effect.
+
+Only tariffs specifically targeting a named country will qualify. For example, a tariff on the European Union would not count for France. Likewise, a global tariff (tariffs on all imports into the US) will not count toward this market's resolution.
+
+Announcements that tariffs which were previously delayed will go into effect, including the March 4 tariffs on Canada and Mexico, will qualify for a “Yes” resolution. 
+
+An announcement of a “secondary tariff” on countries purchasing from a listed country will qualify solely for the origin country unless the purchasing country is explicitly named. For example, a tariff on any country purchasing oil from Venezuela will qualify the market for Venezuela to resolve “Yes” but will not count as a tariff on the countries purchasing Venezuelan oil unless they are explicitly named.  
+
+The resolution source will be official announcements from the Trump administration however a consensus for credible reporting may also be used.","[""Yes"", ""No""]",2025-04-02T12:00:00Z,99812.42,1,Yes,"[1.0, 0.0]",will-trump-announce-tariffs-on-venezuela-on-april-2
+735254,"Will the price of Ethereum be between $3,000 and $3,100 on December 5?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-12-05T17:00:00Z,99811.81,1,Yes,"[1.0, 0.0]",will-the-price-of-ethereum-be-between-3000-3100-on-december-5
+518559,Will the Tampa Bay Lightning win the 2025 President’s Trophy?,"This market will resolve to “Yes” if the Tampa Bay Lightning win the 2025 NHL President’s Trophy. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 President’s Trophy based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.","[""Yes"", ""No""]",2025-04-17T12:00:00Z,997980.41,0,No,"[0.0, 1.0]",will-the-tampa-bay-lightning-win-the-2025-presidents-trophy
+1323425,"US strikes Yemen by February 28, 2026?","This market will resolve to ""Yes"" if the US initiates a drone, missile, or air strike on Yemen soil or any official Yemen embassy or consulate by the listed date, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+For the purposes of this market, a qualifying ""strike"" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by US military forces that impact Yemen ground territory or any official Yemen embassy or consulate (e.g., if a weapons depot on Yemen soil is hit by an US missile, this market will resolve to ""Yes"").
+
+Missiles or drones which are intercepted and surface-to-air missile strikes will not be sufficient for a ""Yes"" resolution regardless of whether they land on Yemen territory or cause damage.
+
+Actions such as artillery fire, small arms fire, FPV or ATGM strikes directly, ground incursions, naval shelling, cyberattacks, or other operations conducted by US ground operatives will not qualify.
+
+The resolution source will be a consensus of credible reporting.
+
+If no qualifying strike is confirmed by the resolution date this market will remain open until the end of the second day after the resolution time. If the date/time of a qualifying strike cannot be confirmed by a consensus of credible reporting by that time, it will resolve to ""No"" regardless of whether a strike was later confirmed to have taken place.","[""Yes"", ""No""]",2026-03-31T00:00:00Z,99794.13,0,No,"[0.0, 1.0]",us-strikes-yemen-by-february-28-2026
+680535,Will annual inflation increase by 3.0% in November?,"This is a market about inflation over the 12-month period ending November 2025, before seasonal adjustment, as reported by the Bureau of Labor Statistics.
+
+This market will resolve to the number the Consumer Price Index (CPI) increased by over the 12-month period ending in November 2025 according to the monthly Bureau of Labor Statistics (BLS) report.
+
+The resolution source for this market will be the BLS Consumer Price Index report released for November 2025 (https://www.bls.gov/bls/news-release/cpi.htm), currently scheduled to be released on December 18, 2025, 2025, at 8:30 AM ET. Resolution of this market will take place upon release of the aforementioned data.
+
+Note: the resolution source for this market will be the official monthly BLS CPI news release, which reports inflation over 12-month periods to only one decimal point (e.g., 2.9%). Thus, this is the level of precision that will be used when resolving the market.
+
+If the BLS does not release the relevant figures on the scheduled date, this market may remain open up until the scheduled release time of the next CPI report (https://www.bls.gov/schedule). If the information is not released by that time, this market will resolve according the figures of the most recent previous month with available data. ","[""Yes"", ""No""]",2025-12-18T00:00:00Z,99793.11,0,No,"[0.0, 1.0]",will-annual-inflation-increase-by-3pt0-in-november
+1124634,Will Al Kholood Saudi Club win on 2026-02-03?,"In the upcoming game, scheduled for February 3, 2026
+If Al Kholood Saudi Club wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-02-03T15:40:00Z,99789.38,0,No,"[0.0, 1.0]",spl-dam-kho-2026-02-03-kho
+651002,Will VfB Stuttgart win on 2025-11-09?,"In the upcoming game, scheduled for November 9, 2025
+If VfB Stuttgart wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-11-09T16:30:00Z,99786.41,1,Yes,"[1.0, 0.0]",bun-stu-aug-2025-11-09-stu
+1340487,"Will Elon Musk post 115-139 tweets from February 7 to February 9, 2026?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from February 7 12:00 PM ET to February 9, 2026 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2026-02-09T17:00:00Z,997824.85,1,Yes,"[1.0, 0.0]",elon-musk-of-tweets-february-7-february-9-115-139
+610726,Will Ajax Amsterdam win on 2025-09-30?,"In the upcoming UCL game, scheduled for September 30 at 3:00PM ET,
+If Ajax Amsterdam wins, this market will resolve to “Yes”.
+If Ajax Amsterdam loses, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-09-30T19:00:00Z,99773.56,0,No,"[0.0, 1.0]",ucl-olm-aja-2025-09-30-aja
+554707,Another US military action against Iran by June 30?,"This market will resolve to ""Yes"" if the US initiates a military action on Iranian soil, airspace, or maritime territory or against any Iranian embassies or consulates between June 21, 8:00 PM ET and, June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+For the purposes of this market, a ""military action"" will be considered to be any use of force executed by the US military on Iranian soil, airspace, or maritime territory (e.g. if a weapons depot on Iranian soil is hit by an the US missile, this market will resolve to ""Yes"") that is officially acknowledged by the the US government or a consensus of credible reporting. This includes, but is not limited to, airstrikes, naval attacks, or ground invasions. Cyber attacks, sanctions, or diplomatic actions will not count towards the resolution of this market.
+
+In the case that the ""Yes"" resolution criteria are met prior to this market's resolution date, this market will resolve immediately.","[""Yes"", ""No""]",2025-06-30T00:00:00Z,997664.02,0,No,"[0.0, 1.0]",another-us-military-action-against-iran-by-june-30
+691712,Will the price of Solana be between $110 and $120 on November 26?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-11-26T17:00:00Z,99756.48,0,No,"[0.0, 1.0]",will-the-price-of-solana-be-between-110-120-on-november-26
+526831,Will U.S. GDP growth be greater than 2% in Q1 2025?,"This market will resolve according to the seasonally adjusted and annualized GDP ""Advance Estimate"" release for Q1 of 2025 scheduled for April 30, 2025.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The GDP release will be made available here: https://www.bea.gov/data/gdp/gross-domestic-product
+
+Note: data in the first available GDP report is labelled by the BEA as an ""Advance Estimate"". The data found in the advance estimate will be used to resolve this market. Data may be revised during the following quarter or as a part of the next estimate's publication, however any revisions to GDP report data made after the release of the advance estimate will not be considered for this market's resolution.
+","[""Yes"", ""No""]",2025-04-30T12:00:00Z,99755.99,0,No,"[0.0, 1.0]",will-us-gdp-growth-be-greater-than-2-in-q1-2025
+564326,Will Monsters: The Lyle and Erik Menendez Story win the Emmy for Outstanding Limited or Anthology Series?,"The 77th Primetime Emmy Awards, given by the Academy of Television Arts & Sciences, honor the best in American prime time television programming aired between June 1, 2024, until May 31, 2025. The awards ceremony is scheduled for September 14, 2025, at the Peacock Theater in Downtown Los Angeles, California
+
+This market will resolve according to the title which wins the Emmy for Outstanding Limited or Anthology Series. 
+
+If for any reason no winner is declared by October 31, 2025, 11:59 PM ET, or in case of overall cancellation or a tie for winner, this market will resolve in favor of the nominated film which comes first in alphabetical order.
+
+The primary resolution source for this market will be official information from the Academy of Television Arts & Sciences and the Emmys, including data from their websites (e.g. https://theemmys.tv/, https://www.televisionacademy.com/) and the live broadcast of the award ceremony, however a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2025-09-14T00:00:00Z,99737.65,0,No,"[0.0, 1.0]",will-monsters-the-lyle-and-erik-menendez-story-win-the-emmy-for-outstanding-limited-or-anthology-series
+504989,Will Jahmyr Gibbs be the top Fantasy Running Back?,"This market will resolve to “Yes” if Jahmyr Gibbs is the top scoring running back during the 2024 NFL season. Otherwise, this market will resolve to “No”.
+
+This market will be based on ESPN’s FFL Points Per Reception (PPR) scoring, and refers to the totals for the entirety of the 2024-2025 NFL regular season.
+
+In case of a tie for the most points scored, this market will resolve in favor of the player whose last name comes first alphabetically.
+
+The resolution source for this market will be ESPN Fantasy https://fantasy.espn.com/football/leaders.","[""Yes"", ""No""]",2025-01-07T12:00:00Z,99734.11,1,Yes,"[1.0, 0.0]",will-jahmyr-gibbs-be-the-top-fantasy-running-back
+657972,Will Zohran Mamdani win by less than 5%?,"This market will resolve according to the margin of victory (MoV) for Democrat Zohran Mamdani in the 2025 New York City mayoral general election, scheduled for November 4, 2025.
+
+For the purpose of resolving this market, the “margin of victory” is defined as the absolute percentage-point difference between Mamdani’s certified vote share and the vote share of the runner-up (the candidate with the second-highest number of votes) in the certified results.
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.
+
+If Zohran Mamdani does not receive the most votes in the certified results, this market will resolve to the lowest range bracket.
+
+This market will resolve based on the official certified results as published by the New York City Board of Elections.
+
+If a recount is initiated prior to certification, the market will remain open until the recount is completed and the results are certified. A recount initiated after certification will not affect market resolution.","[""Yes"", ""No""]",2025-11-04T00:00:00Z,99727.65,0,No,"[0.0, 1.0]",will-zohran-mamdani-win-by-less-than-5
+1137190,"Will the price of Bitcoin be above $84,000 on January 15?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-01-15T17:00:00Z,99716.71,1,Yes,"[1.0, 0.0]",bitcoin-above-84k-on-january-15
+646625,Will Bianca Censori be the #2 searched person on Google this year?,"This market will resolve according to the individual ranked #2 in Google’s official Year in Search list for 2025, published on Google’s Year in Search hub.
+
+The authoritative location is trends.withgoogle.com/year-in-search/
+ (navigate: Global → Trending → People), where the 2025 page will appear once released (as the 2024 page currently shows the Global “People” ranking).
+
+This market may resolve as soon as the official 2025 data is released for the specified timeframe. If none of the listed options is ranked #2 in the respective list or if Google does not release the 2025 Year in Search by March 31, 2026, 11:59 PM ET, this market will resolve to “Other.”","[""Yes"", ""No""]",2025-12-31T00:00:00Z,99713.52,0,No,"[0.0, 1.0]",will-bianca-censori-be-the-2-searched-person-on-google-this-year
+578917,Ethereum above $4000 on August 27?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final “Close” price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-08-27T16:00:00Z,99711.37,1,Yes,"[1.0, 0.0]",ethereum-above-4000-on-august-27
+692786,Will Real Madrid win on 2025-12-03?,"In the upcoming game, scheduled for December 3, 2025
+If Real Madrid wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-12-03T18:00:00Z,997105.26,1,Yes,"[1.0, 0.0]",lal-bil-rea-2025-12-03-rea
+1211390,Will Blackburn Rovers FC win on 2026-02-14?,"In the upcoming game, scheduled for February 14, 2026
+If Blackburn Rovers FC wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-02-14T15:00:00Z,99708.78,1,Yes,"[1.0, 0.0]",elc-qpr-bbr-2026-02-14-bbr
+1009196,Will Elon Musk post 880-919 tweets in January 2026?,"This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X during the month of January 2026.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2026-02-01T05:00:00Z,99707.16,0,No,"[0.0, 1.0]",elon-musk-of-tweets-january-2026-880-919
+571934,Will MrBeast raise $40M for clean water by August 8?,"MrBeast is currently raising $40M to give 2 million people clean water for decades. 
+
+This market will resolve to ""Yes"" if the fundraising goal of $40 million is met by Friday, August 8, 2025, 11:59 PM ET. Otherwise, the market will resolve to ""No"".
+
+The primary resolution source will be the total “Years of Water Supplied” figure displayed on teamwater.org. 
+
+According to the #teamwater site, $1 equals one year of water supplied. Thus, once that figure reaches 40,000,000, this market will resolve to ""Yes"".","[""Yes"", ""No""]",2025-08-08T23:55:00Z,99706.34,0,No,"[0.0, 1.0]",will-mrbeast-raise-40m-for-clean-water-by-august-8
+640647,"Will the price of Ethereum be above $4,100 on October 27?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-10-27T16:00:00Z,99698.8,1,Yes,"[1.0, 0.0]",ethereum-above-4100-on-october-27
+523030,Will Elon tweet less than 800 times Feb 7-14?,"This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X between February 7, 2025, 12:00 PM ET and February 14, 2025, 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts posts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+The resolution source for this market is the ‘Post Counter’ figure for posts found at https://www.xtracker.io/. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2025-02-14T12:00:00Z,99697.73,0,No,"[0.0, 1.0]",will-elon-tweet-less-than-800-times-feb-7-14
+680673,"Will the price of Ethereum be above $3,300 on November 20?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-11-20T17:00:00Z,99697.71,0,No,"[0.0, 1.0]",ethereum-above-3300-on-november-20
+600706,Will the federal government be shut down for 30 or more days in 2025?,"This market will resolve according to how many days the U.S. Office of Personnel Management announces that the U.S. federal government is at least partially shut down due to a lapse in appropriations by December 31, 2025, 11:59 PM.
+
+Days are counted based on notices checked at 10:00 AM ET each day. If the Office of Personnel Management announces a partial shutdown, this will count; however, announcements of office closures due to holidays or inclement weather will not qualify. 
+
+If there are multiple government shutdowns during the relevant period, this market only applies to the first shutdown, as the market will resolve after the end of the first shutdown. Notices of emergency furloughs or impacted government operations count toward the shutdown days.  
+
+If no shutdown occurs during the period, this market will resolve to ""No shutdown"".
+
+The resolution source for this market will be the website of the U.S. Office of Personnel Management (https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/).","[""Yes"", ""No""]",2025-12-31T00:00:00Z,996813.42,1,Yes,"[1.0, 0.0]",will-the-federal-government-be-shut-down-for-36-or-more-days-in-2025-545
+1299759,Will the price of XRP be above $1.30 on February 6?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for XRP/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the XRP/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/XRP_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance XRP/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-06T17:00:00Z,99678.01,1,Yes,"[1.0, 0.0]",xrp-above-1pt3-on-february-6
+1384039,Will Solana dip to $80 February 16-22?,"This market will immediately resolve to ""Yes"" if any Binance 1 minute candle for Solana (SOL/USDT) during the date range specified in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last) has a final ""Low"" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to ""No.""
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Low"" prices available at https://www.binance.com/en/trade/SOL_USDT, with the chart settings on ""1m"" candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance SOL/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2026-02-23T05:00:00Z,99673.21,1,Yes,"[1.0, 0.0]",will-solana-dip-to-80-february-16-22
+590709,Will MicroStrategy purchase Bitcoin September 9-15?,"This market will resolve to “Yes” if MicroStrategy Incorporated announces that they have acquired additional Bitcoin between the dates in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last). Otherwise, it will resolve to “No”.
+
+The resolution source for this market will be official information from MicroStrategy or Michael Saylor.
+
+For reference, MicroStrategy’s reported BTC holdings can be tracked at: https://www.strategy.com/purchases","[""Yes"", ""No""]",2025-09-16T04:00:00Z,99671.23,1,Yes,"[1.0, 0.0]",will-microstrategy-purchase-bitcoin-september-9-15
+847540,Will Borussia Mönchengladbach win on 2025-12-19?,"In the upcoming game, scheduled for December 19, 2025
+If Borussia Mönchengladbach wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-12-19T19:30:00Z,99668.44,0,No,"[0.0, 1.0]",bun-dor-moe-2025-12-19-moe
+680675,"Will the price of Ethereum be above $3,400 on November 20?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-11-20T17:00:00Z,99666.11,0,No,"[0.0, 1.0]",ethereum-above-3400-on-november-20
+696472,"Will Elon Musk post 180-199 tweets from November 25 to December 2, 2025?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from November 25 12:00 PM ET to December 2, 2025 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com/user/elonmusk. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2025-12-02T17:00:00Z,996654.6,0,No,"[0.0, 1.0]",elon-musk-of-tweets-november-25-december-2-180-199
+1271954,Will the price of Solana be above $120 on February 2?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-02T17:00:00Z,99663.16,0,No,"[0.0, 1.0]",solana-above-120-on-february-2
+746249,Will Leicester City FC win on 2025-12-26?,"In the upcoming game, scheduled for December 26, 2025
+If Leicester City FC wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-12-26T15:00:00Z,99662.64,0,No,"[0.0, 1.0]",elc-lei-wat-2025-12-26-lei
+552140,XRP Up or Down on June 15?,"This market will resolve to ""Up"" if the ""Close"" price for the Binance 1 minute candle for XRP/USDT 14 Jun '25 12:00 in the ET timezone (noon) is lower than the final ""Close"" price for the 15 Jun '25 12:00 ET candle.
+
+This market will resolve to ""Down"" if the ""Close"" price for the Binance 1 minute candle for XRP/USDT 14 Jun '25 12:00 in the ET timezone (noon) is higher than the final ""Close"" price for the 15 Jun '25 12:00 ET candle.
+
+If the final ""Close"" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.
+
+The resolution source for this market is Binance, specifically the XRP/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/XRP_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance XRP/USDT, not according to other sources or spot markets.","[""Up"", ""Down""]",2025-06-15T16:00:00Z,99656.82,1,Up,"[1.0, 0.0]",xrp-up-or-down-on-june-15
+650621,"Will the price of Bitcoin be above $116,000 on November 2?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-11-02T17:00:00Z,99629.18,0,No,"[0.0, 1.0]",bitcoin-above-116k-on-november-2
+545802,Will Richard Carapaz win the Tour de France 2025?,"This market will resolve to ""Yes"" if Richard Carapaz wins the Tour de France 2025. Otherwise, this market will resolve to ""No"".
+
+If the Tour de France 2025 is permanently canceled or has not been completed by October 1, 2025, 11:59 PM, this market will resolve to “Other”.
+
+The primary resolution source for this market will be the Tour de France official website (https://www.letour.fr/en/).","[""Yes"", ""No""]",2025-07-27T12:00:00Z,99627.05,0,No,"[0.0, 1.0]",will-richard-carapaz-win-the-tour-de-france-2025
+534990,Will Elon tweet 250 or more times April 4 - 11?,"This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X between April 4, 2025, 12:00 PM ET and April 11, 2025, 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts posts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+The resolution source for this market is the ‘Post Counter’ figure for posts found at https://www.xtracker.io/. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2025-04-11T12:00:00Z,99622.43,0,No,"[0.0, 1.0]",will-elon-tweet-250-or-more-times-april-4-11
+544458,Will Kim Moon-soo win less than 20% of the vote in the South Korea election?,"The 2025 South Korean presidential election will be held on June 3 to elect the next President of the Republic of Korea.
+
+This market will resolve according to the popular vote share won by Kim Moon-soo.
+
+If Kim Moon-soo does not participate in the election for any reason this market will resolve to the lowest bracket.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+This market will resolve based on the official vote count published by the National Election Commission of South Korea (https://www.nec.go.kr/engvote/main.jsp).","[""Yes"", ""No""]",2025-06-03T12:00:00Z,99619.06,0,No,"[0.0, 1.0]",will-kim-moon-soo-win-less-than-20-of-the-vote-in-the-south-korea-election
+1385914,"Will the price of Ethereum be above $1,800 on February 23?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-23T17:00:00Z,99599.34,1,Yes,"[1.0, 0.0]",ethereum-above-1800-on-february-23
+788000,"Will the price of Bitcoin be above $82,000 on December 8?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-12-08T17:00:00Z,99593.29,1,Yes,"[1.0, 0.0]",bitcoin-above-82k-on-december-8
+622926,"Will Bitcoin dip to $110,000 October 6-12?","This market will immediately resolve to ""Yes"" if any Binance 1 minute candle for Bitcoin (BTC/USDT) during the date range specified in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last) has a final ""Low"" price equal to or lower than the price specified in the title. Otherwise, this market will resolve to ""No.""
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Low"" prices available at https://www.binance.com/en/trade/BTC_USDT, with the chart settings on ""1m"" candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance BTC/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2025-10-13T04:00:00Z,99590.2,1,Yes,"[1.0, 0.0]",will-bitcoin-dip-to-110k-october-6-12
+517727,Will the Jaguars draft Malaki Starks?,"This market will resolve to “Yes” if Malaki Starks is taken by the Jacksonville Jaguars with their first selection of the 2025 NFL Draft. Otherwise, this market will resolve to “No”.
+
+The primary resolution source for this market will be official information from the NFL, or announcements from specific NFL teams, however a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2025-04-24T12:00:00Z,99589.82,0,No,"[0.0, 1.0]",will-the-jaguars-draft-malaki-starks
+617473,Will Other be the second most valuable company on October 31?,"This market will resolve to the second-largest company in the world by market cap on October 31, 2025, as of market close. 
+
+The resolution source for this market will be a consensus of credible reporting.","[""Yes"", ""No""]",2025-10-31T00:00:00Z,99565.5,0,No,"[0.0, 1.0]",will-other-be-the-second-most-valuable-company-on-october-31-937
+533806,Bitcoin Up or Down on April 5?,"This market will resolve to ""Up"" if the ""Close"" price for the Binance 1 minute candle for BTCUSDT 04 Apr '25 12:00 in the ET timezone (noon) is lower than the final ""Close"" price for the 05 Apr '25 12:00 ET candle.
+This market will resolve to ""Down"" if the ""Close"" price for the Binance 1 minute candle for BTCUSDT 04 Apr '25 12:00 in the ET timezone (noon) is higher than the final ""Close"" price for the 05 Apr '25 12:00 ET candle.
+If the final ""Close"" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.
+
+The resolution source for this market is Binance, specifically the BTCUSDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance BTCUSDT, not according to other sources or spot markets.","[""Up"", ""Down""]",2025-04-05T12:00:00Z,995384.69,0,Down,"[0.0, 1.0]",bitcoin-up-or-down-on-april-5
+694399,Will NVIDIA (NVDA) hit $145 before 2026??,"This market will resolve to ""Yes"" if, at any point between November 21 and December 31 2025, any 1-minute candle for NVIDIA (NVDA) has a final ""Low"" price equal to or below $145. Otherwise, this market will resolve to ""No"".
+
+Only prices achieved during regular trading hours (ET) will be considered.
+
+In the event of a stock split, reverse stock split, or similar corporate action affecting the listed company during the listed time frame, this market will resolve based on split-adjusted prices as displayed on Yahoo Finance.
+
+The target price will be adjusted proportionally to reflect any stock splits. Resolution will be based on the historical price data as shown on Yahoo Finance after any adjustments have been applied.
+
+The resolution source for this market is Yahoo Finance — specifically, the NVIDIA (NVDA) ""Low"" prices available at https://finance.yahoo.com/quote/NVDA/, with the chart settings on ""1m"" for candle intervals.","[""Yes"", ""No""]",2025-12-31T23:59:59Z,99534.94,0,No,"[0.0, 1.0]",will-nvda-hit-145-before-2026-641
+570871,Will Solana reach $195 in August?,"This market will immediately resolve to ""Yes"" if any Binance 1 minute candle for Solana (SOL/USDT) during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final ""High"" price equal to or greater than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""High"" prices available at https://www.binance.com/en/trade/SOL_USDT, with the chart settings on ""1m"" for one-minute candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance SOL/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2025-09-01T04:00:00Z,99531.13,1,Yes,"[1.0, 0.0]",will-solana-reach-195-in-august-244-768-974-737
+834334,Will the highest temperature in London be 63°F or higher on December 9?,"This market will resolve to the temperature range that contains the highest temperature recorded at the London City Airport Station in degrees Fahrenheit on 9 Dec '25.
+
+The resolution source for this market will be information from Wunderground, specifically the highest temperature recorded for all times on this day by the Forecast for the London City Airport Station once information is finalized, available here: https://www.wunderground.com/history/daily/gb/london/EGLC.
+
+This market can not resolve to ""Yes"" until all data for this date has been finalized.
+
+The resolution source for this market measures temperatures to whole degrees Fahrenheit (eg, 21°F). Thus, this is the level of precision that will be used when resolving the market.
+
+Any revisions to temperatures recorded after data is finalized for this market's timeframe will not be considered for this market's resolution.","[""Yes"", ""No""]",2025-12-09T12:00:00Z,99527.92,0,No,"[0.0, 1.0]",will-the-highest-temperature-in-london-be-63f-or-higher-on-december-9
+1383962,Will Paris FC vs. OGC Nice end in a draw?,"In the upcoming game, scheduled for March 1, 2026
+If the game ends in a draw, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve to ""Yes"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-03-01T14:00:00Z,99524.94,0,No,"[0.0, 1.0]",fl1-pfc-ogc-2026-03-01-draw
+588616,XRP Up or Down on September 9?,"This market will resolve to ""Up"" if the ""Close"" price for the Binance 1 minute candle for XRP/USDT 8 Sep '25 12:00 in the ET timezone (noon) is lower than the final ""Close"" price for the 9 Sep '25 12:00 ET candle.
+
+This market will resolve to ""Down"" if the ""Close"" price for the Binance 1 minute candle for XRP/USDT 8 Sep '25 12:00 in the ET timezone (noon) is higher than the final ""Close"" price for the 9 Sep '25 12:00 ET candle.
+
+If the final ""Close"" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.
+
+The resolution source for this market is Binance, specifically the XRP/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/XRP_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance XRP/USDT, not according to other sources or spot markets.","[""Up"", ""Down""]",2025-09-09T16:00:00Z,99520.07,0,Down,"[0.0, 1.0]",xrp-up-or-down-on-september-9
+675504,Will NVIDIA (NVDA) beat quarterly earnings?,"As of market creation, NVIDIA is estimated to release earnings on November 19, 2025. The Street consensus estimate for NVIDIA’s non-GAAP EPS for the relevant quarter is $1.25 as of market creation. This market will resolve to ""Yes"" if NVIDIA reports non-GAAP EPS greater than $1.25 for the relevant quarter in its next quarterly earnings release. Otherwise, it will resolve to ""No."" The resolution source will be the non-GAAP EPS listed in the company’s official earnings documents. 
+
+If NVIDIA releases earnings without non-GAAP EPS, then the market will resolve according to the non-GAAP EPS figure reported by SeekingAlpha. If no such figure is published within 96h of market close (4:00:00pm ET) on the day earnings are announced, the market will resolve according to the GAAP EPS listed in the company’s official earnings documents; or, if not published there, according to the GAAP EPS provided by SeekingAlpha. If no GAAP EPS number is available from either source at that time, the market will resolve to “No.” (For the purposes of this market, GAAP EPS refers to diluted GAAP EPS, unless it is not published, in which case it refers to basic GAAP EPS.)
+
+If the company does not release earnings within 45 calendar days of the estimated earnings date, this market will resolve to “No.” 
+
+Note: Subsequent restatements, corrections, or revisions made to the initially announced non-GAAP EPS figure will not qualify for resolution, except in the case of obvious and immediate mistakes (e.g., fat finger errors, as with Lyft's (LYFT) earnings release in February 2024).
+Note: The strike prices used in these markets are derived from SeekingAlpha estimates, and reflect the consensus of sell-side analyst estimates for non-GAAP EPS.
+Note: All figures will be rounded to the nearest cent using standard rounding.
+Note: For the purposes of this market, IFRS EPS will be treated as GAAP EPS.
+Note: If multiple versions of non-GAAP EPS are published, the market will resolve according to the primary ","[""Yes"", ""No""]",2025-11-19T22:00:00Z,995129.93,1,Yes,"[1.0, 0.0]",nvda-quarterly-earnings-nongaap-eps-11-19-2025-1pt25
+1363356,"Will the price of Ethereum be above $2,200 on February 17?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-17T17:00:00Z,99511.79,0,No,"[0.0, 1.0]",ethereum-above-2200-on-february-17
+1414906,"Will the price of Ethereum be above $1,600 on March 1?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-03-01T17:00:00Z,99488.73,1,Yes,"[1.0, 0.0]",ethereum-above-1600-on-march-1
+732138,Will the highest temperature in New York City be 47°F or higher on December 1?,"This market will resolve to the temperature range that contains the highest temperature recorded at the LaGuardia Airport Station in degrees Fahrenheit on 1 Dec '25.
+
+The resolution source for this market will be information from Wunderground, specifically the highest temperature recorded for all times on this day by the Forecast for the LaGuardia Airport Station once information is finalized, available here: https://www.wunderground.com/history/daily/us/ny/new-york-city/KLGA.
+
+This market can not resolve to ""Yes"" until all data for this date has been finalized.
+
+The resolution source for this market measures temperatures to whole degrees Fahrenheit (eg, 21°F). Thus, this is the level of precision that will be used when resolving the market.
+
+Any revisions to temperatures recorded after data is finalized for this market's timeframe will not be considered for this market's resolution.","[""Yes"", ""No""]",2025-12-01T12:00:00Z,99484.44,0,No,"[0.0, 1.0]",will-the-highest-temperature-in-new-york-city-be-47f-or-higher-on-december-1
+572383,Will the price of Bitcoin be greater than $116K on August 6 at 5PM ET?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT on the time and date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-08-06T21:00:00Z,99473.52,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-greater-than-116k-on-august-6-at-5pm-et
+1214083,"Will the price of Bitcoin be above $88,000 on January 25?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-01-25T17:00:00Z,994661.37,1,Yes,"[1.0, 0.0]",bitcoin-above-88k-on-january-25
+1399375,"Will ""Scream 7"" Opening Weekend Box Office be between 60m and 65m?","This market will resolve according to how much ""Scream 7"" Opening Weekend Box Office will gross domestically on its opening weekend. The ""Daily Box Office Performance"" figures found on the “Box Office” tab on this movie's The Numbers (https://www.the-numbers.com/) page will be used to resolve this market once the values for the 3-day opening weekend (February 27 - March 1) are final (i.e., not studio estimates).
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note, this market will resolve according to the The Numbers figures provided under Weekend Box Office Performance for the 3-day weekend (which typically includes Thursday's previews), regardless of whether domestic refers to only the USA, or to USA and Canada, etc.
+
+If there is ambiguity as to whether the resolution source's figures are final, this market will remain open until both https://www.boxofficemojo.com/ and https://www.the-numbers.com/ have confirmed their finalized figures.
+
+If there is no final data available by March 8, 2026, 11:59 PM ET, another credible resolution source will be chosen.","[""Yes"", ""No""]",2026-03-02T12:00:00Z,99462.85,1,Yes,"[1.0, 0.0]",will-scream-7-opening-weekend-box-office-be-between-60m-and-65m
+693345,"Will the price of Ethereum be above $3,300 on November 27?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-11-27T17:00:00Z,99460.71,0,No,"[0.0, 1.0]",ethereum-above-3300-on-november-27
+1354789,Will Real Sociedad de Fútbol win on 2026-02-21?,"In the upcoming game, scheduled for February 21, 2026
+If Real Sociedad de Fútbol wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-02-21T13:00:00Z,994601.71,0,No,"[0.0, 1.0]",lal-rso-ovi-2026-02-21-rso
+578065,"Will Jorge ""Tuto"" Quiroga win by 15–20%?","A second-round (runoff) vote for the Bolivia Presidential election is scheduled to take place on October 19, 2025 
+
+This market will resolve according to the margin of victory between the top two candidates in the second round of the 2025 Bolivian Presidential Election.
+
+For the purpose of this market, the 'margin of victory' is defined as the absolute difference between the percentages of valid votes received by the first and second-place candidate. Percentages of the valid votes received by each candidate will be determined by dividing the total number of valid votes each of the top two candidates receives by the sum of all valid votes cast in the second round of the Bolivian Presidential Election.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher placed bracket (ascending).
+
+This market will resolve based on the official vote count once the vote count has been made official.
+
+If a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.
+
+If the results of the election aren’t known by March 31, 2026 ET, this market will resolve to “Other”.
+
+This market will resolve solely based on the first official vote count released by the Bolivian Government, specifically the Plurinational Electoral Body (Órgano Electoral Plurinacional, OEP) (https://www.oep.org.bo/).
+
+If a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.","[""Yes"", ""No""]",2025-10-19T00:00:00Z,99456.24,0,No,"[0.0, 1.0]",will-jorge-tuto-quiroga-win-by-1520
+1164932,Will Solana reach $150 January 12-18?,"This market will immediately resolve to ""Yes"" if any Binance 1-minute candle for SOL/USDT during the date range specified in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last) has a final ""High"" price equal to or greater than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""High"" prices available at https://www.binance.com/en/trade/SOL_USDT, with the chart settings on ""1m"" candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance SOL/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2026-01-19T05:00:00Z,99451.48,0,No,"[0.0, 1.0]",will-solana-reach-150-january-12-18
+523149,Will Solana hit $180 or $250 first?,"This is a market on whether Solana ($SOL) will first reach $180.00 or $250.00 between February 13, 2025, 1 PM ET, and December 31, 2025, 11:59 PM ET.
+
+This market will resolve to ""$180"" if $SOL drops to $180.00 or less first within the market timeframe. This market will resolve to ""$250"" if $SOL reaches $250.00 or more first within the market timeframe.
+
+If the price of $SOL neither drops to $180.00 or below nor reaches $250.00 or more within the market timeframe, this market will resolve 50-50.
+
+The resolution source for this market is Binance, specifically the SOLUSDT ""High"" and ""Low"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.","[""$180"", ""$250""]",2025-12-31T12:00:00Z,99421.59,1,$180,"[1.0, 0.0]",will-solana-hit-180-or-250-first
+1266414,"Will the price of Ethereum be between $2,400 and $2,500 on February 1?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2026-02-01T17:00:00Z,99413.55,0,No,"[0.0, 1.0]",will-the-price-of-ethereum-be-between-2400-2500-on-february-1
+549518,Will the price of Ethereum be less than $2400 on June 10?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for ETH/USDT 10 June '25 12:00 in the ET timezone (noon). Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-06-10T00:00:00Z,99411.85,0,No,"[0.0, 1.0]",will-the-price-of-ethereum-be-less-than-2400-on-june-10
+1138265,Will Liverpool FC win on 2026-01-21?,"In the upcoming game, scheduled for January 21, 2026
+If Liverpool FC wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-01-21T20:00:00Z,9940935.87,1,Yes,"[1.0, 0.0]",ucl-olm1-liv1-2026-01-21-liv1
+509112,Will the Vancouver Canucks win the 2025 Stanley Cup?,"This market will resolve to “Yes” if the Vancouver Canucks win the 2025 NHL Stanley Cup. Otherwise, this market will resolve to “No”.
+
+This market will resolve to “No” if it becomes impossible for this team to win the 2025 NHL Stanley Cup based off the rules of the NHL.
+
+The resolution source for this market will be information from the NHL.","[""Yes"", ""No""]",2025-06-23T12:00:00Z,993919.02,0,No,"[0.0, 1.0]",will-the-vancouver-canucks-win-the-2025-stanley-cup
+688474,Will Jara win by at least 5%?,"Second-round presidential elections are scheduled to be held in Chile on December 14, 2025.
+
+This market will resolve according to the margin of victory between the two candidates in the second round of the 2025 Chilean Presidential Election.
+
+For the purpose of this market, the 'margin of victory' is defined as the absolute difference between the percentages of votes received by the first and second-place candidates. Percentages of the votes received by each candidate will be determined by dividing the total number of votes each of the two candidates receives by the sum of all votes cast in this round of the Chilean Presidential Election.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+This market will resolve based on the official vote count once the vote count has been made official.
+
+If a recount is initiated before the vote total has been made official, the market will remain open until the recount is completed and the vote is made official.
+
+If the results of the election aren’t known by June 30, 2026, 11:59 PM ET, this market will resolve to “Other”.
+
+This market will resolve based on the election results, as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Chilean Electoral Service (https://www.servel.cl/).","[""Yes"", ""No""]",2026-01-31T00:00:00Z,99378.81,0,No,"[0.0, 1.0]",will-jara-win-by-at-least-10-224
+512307,Will Trump pardon Eric Adams in his first 100 days?,"This market will resolve to ""Yes"" if Eric Adams receives a presidential pardon, commutation, or reprieve from Donald Trump by April 29, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+If it becomes impossible for Trump issue a federal pardon, commutation, or reprieve within this market's timeframe, it may immediately resolve to ""No"".
+
+The primary resolution source for whether Eric Adams is pardoned or not will be official information from the US government, however a consensus of credible reporting will also be used.
+","[""Yes"", ""No""]",2025-04-29T12:00:00Z,993621.05,0,No,"[0.0, 1.0]",will-trump-pardon-eric-adams-in-his-first-100-days
+579535,Will PAOK win on 2025-08-28?,"In the upcoming UEL game, scheduled for August 28 at 1:30PM ET,
+If PAOK wins, this market will resolve to “Yes”.
+If PAOK loses, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-08-28T17:30:00Z,993618.85,1,Yes,"[1.0, 0.0]",uel-paok-rij-2025-08-28-paok
+634826,Will B8 win the StarLadder Budapest Major 2025?,"This market will resolve according to the winner of the StarLadder Budapest Major 2025 tournament.
+
+If this tournament is postponed after December 31, 2025, 11:59 PM ET, canceled, or a winner has not been declared, this market will resolve to “Other”.
+
+The resolution source for this market will be official information from HLTV (https://www.hltv.org/events/8042/starladder-budapest-major-2025) and Liquipedia (https://liquipedia.net/counterstrike/StarLadder/2025/Major).","[""Yes"", ""No""]",2025-12-14T00:00:00Z,99354.91,0,No,"[0.0, 1.0]",will-b8-win-the-starladder-budapest-major-2025
+977803,Will Rayo Vallecano de Madrid vs. Getafe CF end in a draw?,"In the upcoming game, scheduled for January 2, 2026
+If the game ends in a draw, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve to ""Yes"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-01-02T20:00:00Z,99346.44,1,Yes,"[1.0, 0.0]",lal-ray-get-2026-01-02-draw
+679804,"Will the total number of TSA passengers for November 23-30 be between 24,000,000 and 26,000,000?","This market will resolve to the total number of TSA passengers reported between November 23 and November 30, 2025 (inclusive). The total number of TSA passengers will be calculated by summing all of the TSA daily checkpoint throughputs reported for this date range (e.g. if there were a daily TSA checkpoint throughput of 2 million reported on December 1 and a daily TSA checkpoint throughput of 3 million reported on December 2, the total number of TSA passengers for December 1-2 would be 5 million).
+
+If the reported total number of TSA passengers falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+This market will resolve as soon as throughput data becomes available for all dates within the listed range. Any revisions published to data for dates November 23, 2025 and onward prior to the release of data for all dates within the listed range will be considered.
+
+If data is not available for any of the dates from November 23, 2025 to November 30, 2025 by December 31, 2025, this market will resolve to ""other"".
+
+The resolution source for this market will be the daily checkpoint throughputs as measured by the US Transportation Security Administration (TSA), https://www.tsa.gov/travel/passenger-volumes. Should this URL change or move locations, a new URL on the tsa.gov domain will remain valid to resolve this market.","[""Yes"", ""No""]",2025-11-30T00:00:00Z,99345.28,0,No,"[0.0, 1.0]",will-the-total-number-of-tsa-passengers-for-november-23-30-be-between-24000000-and-26000000
+910073,Will Elon Musk's net worth be between $440b and $450b on December 31?,"This market will resolve according to the value of Elon Musk's net worth on December 31, 2025.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+The resolution source for this market will be the Bloomberg Billionaires Index Elon Musk Profile (https://www.bloomberg.com/billionaires/profiles/elon-r-musk/?embedded-checkout=true), specifically the datapoint for December 31, 2025, once the data is finalized. If this resolution source is not available, another credible resolution source will be used.","[""Yes"", ""No""]",2025-12-31T00:00:00Z,99340.88,0,No,"[0.0, 1.0]",will-elon-musks-net-worth-be-between-440b-and-450b-on-december-31
+1345914,"Will Kevin Warsh be formally nominated to be Chair of the Federal Reserve by February 18, 2026?","This market will resolve to “Yes” if Kevin Warsh is formally nominated to be Chair of the Federal Reserve by the listed date, 11:59 PM ET. 
+
+Formal nominations are defined as the submission of a nomination message to the U.S. Senate.
+
+Only a nomination message that nominates Kevin Warsh to be Chair of the Federal Reserve will qualify. A nomination solely to be a Member of the Federal Reserve Board of Governors will not qualify. A joint nomination both for membership on the Federal Reserve Board of Governors and for Chair of the Federal Reserve will count.
+
+Acting or interim appointments will not count unless the individual is formally nominated to be Chair of the Federal Reserve by submission of a nomination message to the U.S. Senate.
+
+The primary resolution source for this market will be official information from the U.S. Senate (see: https://www.senate.gov/legislative/nominations_new.htm), however a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2026-02-18T00:00:00Z,993339.89,0,No,"[0.0, 1.0]",will-kevin-warsh-be-formally-nominated-to-be-chair-of-the-federal-reserve-by-february-18-2026-264
+814088,Will Giannis Antetokounmpo be traded to the Atlanta Hawks?,"This market will resolve to the NBA team that officially acquires Giannis Antetokounmpo in a trade from the Milwaukee Bucks before the 2025-2026 NBA season trade deadline.
+
+If Giannis Antetokounmpo is cut, retires, is not on an NBA roster as of the resolution date, or otherwise remains on the Bucks through the NBA trade deadline, this market will resolve to ""Not Traded"".
+
+The primary resolution source for this market will be official information from the Milwaukee Bucks and/or the acquiring team; however, a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2026-02-05T00:00:00Z,99332.87,0,No,"[0.0, 1.0]",will-giannis-antetokounmpo-be-traded-to-the-atlanta-hawks
+578147,Will Club Brugge win on 2025-08-19?,"In the upcoming UCL game, scheduled for August 19 at 3:00PM ET,
+If Club Brugge wins, this market will resolve to “Yes”.
+If Club Brugge loses, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-08-19T19:00:00Z,99331.01,1,Yes,"[1.0, 0.0]",ucl-ran-bru-2025-08-19-bru
+1157244,Will Stade Rennais FC 1901 vs. FC Lorient end in a draw?,"In the upcoming game, scheduled for January 24, 2026
+If the game ends in a draw, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve to ""Yes"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-01-24T16:00:00Z,99329.7,0,No,"[0.0, 1.0]",fl1-ren-lor-2026-01-24-draw
+593853,"Will the price of Bitcoin be above $114,000 on September 18?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final “Close” price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-09-18T16:00:00Z,99326.06,1,Yes,"[1.0, 0.0]",bitcoin-above-114k-on-september-18
+547972,Will Real Madrid win the FIFA Club World Cup?,"This market will resolve according to the club that wins the 2025 FIFA Club World Cup. 
+
+If at any point it becomes impossible for this team to win the FIFA Club World Cup based on the rules of FIFA (e.g., they are eliminated in the knockout stage), this market will resolve immediately to “No”.
+
+If the 2025 FIFA Club World Cup is permanently canceled or has not been completed by October 13, 2025, 11:59 PM this market will resolve to “Other”.
+
+The primary resolution source will be official information from FIFA, however, a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2025-07-13T12:00:00Z,993257.92,0,No,"[0.0, 1.0]",will-real-madrid-win-the-fifa-club-world-cup
+678307,Will the highest temperature in London be between 56-57°F on November 14?,"This market will resolve to the temperature range that contains the highest temperature recorded at the London City Airport Station in degrees Fahrenheit on 14 Nov '25.
+
+The resolution source for this market will be information from Wunderground, specifically the highest temperature recorded for all times on this day by the Forecast for the London City Airport Station once information is finalized, available here: https://www.wunderground.com/history/daily/gb/london/EGLC.
+
+This market can not resolve to ""Yes"" until all data for this date has been finalized.
+
+The resolution source for this market measures temperatures to whole degrees Fahrenheit (eg, 21°F). Thus, this is the level of precision that will be used when resolving the market.
+
+Any revisions to temperatures recorded after data is finalized for this market's timeframe will not be considered for this market's resolution.","[""Yes"", ""No""]",2025-11-14T12:00:00Z,99325.23,1,Yes,"[1.0, 0.0]",will-the-highest-temperature-in-london-be-between-56-57f-on-november-14
+589203,"Will Elon Musk post 220-239 tweets from September 9 to September 16, 2025?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from September 9 12:00 PM ET to September 16, 2025 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://www.xtracker.io/. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2025-09-16T16:00:00Z,99304.29,0,No,"[0.0, 1.0]",elon-musk-of-tweets-september-9-september-16-220-239
+525830,Will 9 justices on South Korea's Constitutional Court vote for Yoon's impeachment before May?,"This market will resolve according based on the number of justices on South Korea's Constitutional Court that vote in favor of impeaching President Yoon Suk Yeol.
+
+This market's resolution will be based on the first such vote performed by the South Korean Constitutional Court.
+
+If ongoing impeachment proceedings are completely cancelled or otherwise no such vote occurs by June 30, 2025, 11:59 PM ET, this market will resolve to ""0"".
+
+The resolution source will be official information from the government of South Korea, however a consensus of credible reporting will also be used.","[""Yes"", ""No""]",2025-06-30T12:00:00Z,993007.18,0,No,"[0.0, 1.0]",will-9-justices-on-south-koreas-constitutional-court-vote-for-yoons-impeachment-before-may
+696467,"Will Elon Musk post 140-159 tweets from November 25 to December 2, 2025?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from November 25 12:00 PM ET to December 2, 2025 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com/user/elonmusk. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2025-12-02T17:00:00Z,99298.65,0,No,"[0.0, 1.0]",elon-musk-of-tweets-november-25-december-2-140-159
+1192713,"Will the price of Bitcoin be above $102,000 on January 22?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-01-22T17:00:00Z,99280.58,0,No,"[0.0, 1.0]",bitcoin-above-102k-on-january-22
+1363357,"Will the price of Bitcoin be between $72,000 and $74,000 on February 17?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2026-02-17T17:00:00Z,99267.25,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-between-72000-74000-on-february-17
+603166,Another 7.0 or above earthquake by September 30?,"This market will resolve to “Yes” if 1 or more earthquakes with a magnitude of 7.0 or higher occur anywhere on Earth between September 18, 5:00 PM ET, and September 30, 2025 ET. Otherwise, this market will resolve to “No”.
+
+The resolution source for this market is the United States Geological Survey (USGS) Earthquake Hazards Program (https://earthquake.usgs.gov/earthquakes/browse/significant.php#sigdef).
+
+If an earthquake of substantial size has occurred within this market's timeframe but not yet appeared on the resolution source, this market may remain open until October 7, 2025, 11:59 PM ET, or until the earthquake in question otherwise appears on the resolution source. If such an earthquake has not appeared on the resolution source by that date, another credible resolution source will be used.","[""Yes"", ""No""]",2025-09-30T00:00:00Z,99266.41,0,No,"[0.0, 1.0]",another-7pt0-or-above-earthquake-by-september-30-648
+613805,Will Wicked: For Good be nominated for Best Picture at the 98th Academy Awards?,"The Academy Awards are presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS) to honor outstanding artistic and technical achievements in film. For the 98th Academy Awards in 2026, nominations are scheduled to be announced on January 22, followed by the ceremony on March 15, 2026.
+
+This market will resolve to ""Yes"" if the listed movie is nominated for the 98th Academy Award for Best Picture. If a film is not officially nominated for the Academy Award for Best Picture when the 2025 nominees are announced, the corresponding market will immediately resolve to ""No"".
+
+If, for any reason, no nominations are declared by March 15, 2025, 11:59 PM ET,  this market will resolve to ""No"".
+
+The primary resolution source for this market will be official information from the Academy Awards and AMPAS, including data from their website (e.g., https://www.oscars.org/) and the live broadcast of the award ceremony; however, a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2026-01-22T00:00:00Z,99260.28,0,No,"[0.0, 1.0]",will-wicked-for-good-be-nominated-for-best-picture-at-the-98th-academy-awards
+587063,Will Charles Leclerc win the 2025 F1 Italian Grand Prix?,"This is a polymarket on the winner of the 2025 F1 Italian Grand Prix, scheduled for September 7, 2025.
+
+If the 2025 F1 Italian Grand Prix is canceled or rescheduled to a date after September 30, 2025, this market will resolve to “Other.”
+
+This market will resolve in favor of the driver who is officially listed in first place in the ""Final Classification"" published by the FIA following the conclusion of the race. The ""Final Classification"" is typically released 30–60 minutes after the race ends and includes any applied time penalties and official adjustments.
+
+Disqualifications or changes made after the publication of the ""Final Classification"" will not affect market resolution. The timing of the podium ceremony does not determine the result for this market — only the FIA's published classification will be used to resolve this market.
+
+The resolution source will be the official Formula 1 website and credible sports news reporting.","[""Yes"", ""No""]",2025-09-08T00:00:00Z,99258.65,0,No,"[0.0, 1.0]",will-charles-leclerc-win-the-2025-f1-italian-grand-prix
+1349987,"Will Elon Musk post 180-199 tweets from February 10 to February 17, 2026?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from February 10 12:00 PM ET to February 17, 2026 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2026-02-17T17:00:00Z,992550.57,0,No,"[0.0, 1.0]",elon-musk-of-tweets-february-10-february-17-180-199
+525668,Will Iran enrich uranium to 90% before June?,"This market will resolve to ""Yes"" if Iran enriches uranium to 90% purity or higher by May 31, 2025 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+The primary resolution source will be information from the IAEA or announcements from the Islamic Republic of Iran, however an overwhelming consensus of credible reporting may also be used.","[""Yes"", ""No""]",2025-05-31T12:00:00Z,99254.45,0,No,"[0.0, 1.0]",will-iran-enrich-uranium-to-90-before-june
+834873,"Will the price of Ethereum be above $3,400 on December 12?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-12-12T17:00:00Z,99227.34,0,No,"[0.0, 1.0]",ethereum-above-3400-on-december-12
+914685,"Will the price of Bitcoin be less than $80,000 on December 18?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-12-18T17:00:00Z,99225.37,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-less-than-80000-on-december-18
+1220942,"Will the price of Ethereum be less than $2,800 on January 26?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2026-01-26T17:00:00Z,99220.34,0,No,"[0.0, 1.0]",will-the-price-of-ethereum-be-less-than-2800-on-january-26
+1228506,Will the price of Solana be between $110 and $120 on January 27?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2026-01-27T17:00:00Z,99218.93,0,No,"[0.0, 1.0]",will-the-price-of-solana-be-between-110-120-on-january-27
+672363,Will Athletic Club win on 2025-11-22?,"In the upcoming game, scheduled for November 22, 2025
+If Athletic Club wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-11-22T15:15:00Z,99185.24,0,No,"[0.0, 1.0]",lal-bar-bil-2025-11-22-bil
+1236189,Will FC Famalicão win on 2026-02-09?,"In the upcoming game, scheduled for February 9, 2026
+If FC Famalicão wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-02-09T18:45:00Z,99161.46,1,Yes,"[1.0, 0.0]",por-fam-avs-2026-02-09-fam
+1031977,Ukraine hits Moscow by January 15?,"This market will resolve to ""Yes"" if a missile or drone launched by the Ukrainian armed forces strikes Moscow municipality, or any target within the municipality, between December 26, 2025 and January 15, 2026, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+For the purposes of this market, if a missile or drone launched by the Ukrainian armed forces is intercepted before striking Moscow or any target in it, even if it enters Moscow's airspace and its wreckage lands in Moscow, it will not be sufficient for a ""Yes"" resolution.
+
+The primary resolution source for this market will be a consensus of credible reporting and video evidence. If there is ambiguity over whether a strike occurred, or whether the drone/missile was intercepted, this market will resolve based on whatever is most likely according to a consensus of credible reporting and video evidence.","[""Yes"", ""No""]",2026-01-15T00:00:00Z,99155.81,0,No,"[0.0, 1.0]",ukraine-hits-moscow-by-january-15
+529268,Will the PPC win 3 seats in the next Canadian Election?,"The next Canadian general election will take place on or before October 20, 2025, to elect members of the House of Commons to the 45th Canadian Parliament.
+
+This market will resolve according to the number of seats the People's Party of Canada (PPC) wins in the House of Commons as a result of the next Canadian general election. Otherwise, this market will resolve to ""No"".
+
+If the results of this election aren't known by December 31, 2025, 11:59 PM ET, this market will resolve 50-50.
+
+This market's resolution will be based solely on the number of seats won by this party, not any coalition or alliance of which it may be a part.
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Canadian government, specifically Elections Canada (https://www.elections.ca/home.aspx).","[""Yes"", ""No""]",2025-04-28T12:00:00Z,991364.43,0,No,"[0.0, 1.0]",will-the-ppc-win-3-seats-in-the-next-canadian-election
+1005038,Will Kasımpaşa SK win on 2026-01-18?,"In the upcoming game, scheduled for January 18, 2026
+If Kasımpaşa SK wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-01-18T11:30:00Z,99133.03,0,No,"[0.0, 1.0]",tur-kas-ant-2026-01-18-kas
+523074,Will AC Milan vs. Feyenoord end in a draw?,"In the upcoming UCL game, scheduled for February 18 at 12:45PM ET,
+If the game ends in a draw, this market will resolve to “Yes”. If not, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve to “Yes”.","[""Yes"", ""No""]",2025-02-18T17:45:00Z,99132.49,1,Yes,"[1.0, 0.0]",ucl-mil-fey-2025-02-18-draw
+668160,Will Israel win Miss Universe 2025?,"The Miss Universe 2025 competition is scheduled to be held in Thailand on November 21, 2025. You can find more information about that here: https://www.missuniverse.com/the-competition-thailand/
+
+This market will resolve according to the listed country represented by the contestant that wins this competition. 
+
+If the result of this competition isn't known by December 31, 2025, 11:59 PM ET, the market will resolve to ""Other"".
+
+This market will resolve based on official results as reported by the Miss Universe Organization.","[""Yes"", ""No""]",2025-11-21T00:00:00Z,99127.83,0,No,"[0.0, 1.0]",will-israel-win-miss-universe-2025
+533855,Will Trump reduce majority of tariffs before July?,"On April 2, 2025, Donald Trump announced reciprocal tariffs above the 10% baseline on 76 countries (59 countries specifically listed and the EU). See: https://www.theguardian.com/business/2025/apr/03/trumps-tariffs-the-full-list.
+
+This market will resolve to “Yes” if Donald Trump signs any federal legislation or performs any executive action that lowers, pauses, delays, or removes the blanket ""reciprocal"" tariff on imports from 39 of the listed countries by June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+Actions that lower, pause, delay, or remove the general ‘reciprocal’ tariffs on imports from the listed country will qualify, however item specific exceptions or changes to tariffs which are not the general reciprocal tariff will not count. 
+
+A reduction in the reciprocal 20% tariff on the EU will count for all 27 countries. A reduction in the reciprocal tariff on a specific EU member state will also count towards the total. 
+
+The removal or reduction of the 10% general tariff on all imports into the U.S. will not qualify. 
+
+Any action officially enacted within the market’s time frame will qualify, regardless of when the change goes into effect.
+
+This market’s primary resolution source will be official information from the Trump administration; however, a consensus of credible information from major news outlets or government statements will also be used.","[""Yes"", ""No""]",2025-06-30T12:00:00Z,99122.12,1,Yes,"[1.0, 0.0]",will-trump-reduce-majority-of-tariffs-before-july
+595362,xAI IPO in 2025?,"This market will resolve to ""Yes"" if the listed company completes an Initial Public Offering (IPO) by December 31, 2025, 11:59 PM ET, as confirmed by official company announcements or credible news sources. The IPO refers to the first sale of stock by the listed company to the public on any recognized stock exchange.
+
+If the listed company merges with another entity, is acquired, or ceases to exist before the market resolves, the market will also resolve to ""No"".
+
+This market will resolve early if the listed company completes an IPO by December 31, 2025, 11:59 PM ET.
+
+The resolution source for this market is a consensus of credible reporting.","[""Yes"", ""No""]",2025-12-31T00:00:00Z,99121.76,0,No,"[0.0, 1.0]",xai-ipo-in-2025
+1296544,Will the US strike Venezuela next?,"This market will resolve according to the first country against which the US initiates a drone, missile, or air strike on the soil or any official embassy or consulate after the time of this market's creation.
+
+For the purposes of this market, a qualifying ""strike"" is defined as the use of aerial bombs, drones, or missiles (including FPV and ATGM strikes as well as cruise or ballistic missiles) launched by any United States operatives, including military forces, intelligence agencies, or other U.S. government operatives, that physically impact ground territory within the listed country.
+
+A strike on any area within the terrestrial territory (including rivers, lakes, ports, but excluding territorial sea) of the listed country counts.
+
+Missiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a ""Yes"" resolution, regardless of whether they land on the listed country's territory or cause damage.
+
+Actions such as artillery fire, small arms fire, ground incursions, naval shelling, or cyberattacks will not qualify.
+
+If the U.S. does not strike another country by December 31, 2026, 11:59 PM ET, this market will resolve to ""None before 2027"". If the U.S. strikes a country that is not listed next, this market will resolve to ""Other"".
+
+This market will remain open until 5:00 PM ET on the day following the initial announcement/reporting in order to account for the possibility of an earlier strike. 
+
+In cases where the precise time of a strike is not confirmed by U.S. government sources the following standards will be applied: 
+
+If a strike is announced as happening on a specified date without an exact time, the market will resolve based on the time of the strike based on a consensus of credible reporting. If the timing of the strike cannot be determined by a consensus of credible reporting by 5:00 PM ET on the day following the initial announcement/reporting, the strike will be considered to have occurred on the reported date at 12:00","[""Yes"", ""No""]",2026-12-31T00:00:00Z,99106.49,0,No,"[0.0, 1.0]",will-the-us-strike-venezuela-next-783
+562841,Kash Patel out by July 31?,"This market will resolve to “Yes” if Kash Patel ceases to be the Director of the Federal Bureau of Investigation for any period of time between July 11 and July 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to “No”. 
+
+An announcement of Patel's resignation/removal before this market's end date will immediately resolve this market to ""Yes"", regardless of when the announced resignation/removal goes into effect. 
+
+The resolution source for this market will be official information from the Trump administration, however a consensus of credible reporting may also be used.
+","[""Yes"", ""No""]",2025-07-31T00:00:00Z,99101.15,0,No,"[0.0, 1.0]",kash-patel-out-by-july-31
+518516,Will 'Thunderbolts*' have the best domestic opening weekend in 2025?,"This is a market on how whether 'Thunderbolts*' (2025) will gross more domestically on its opening weekend than any other movie in 2025. The “Weekend Box Office Performance” table on https://www.the-numbers.com/movie/Thunderbolts-(2025)#tab=summary will be used to resolve this market once the values for the 3-day opening weekend (October 3 - 5) are final (i.e. not studio estimates).
+
+This market will resolve to ""Yes"" if 'Thunderbolts*' (2025) grosses more on its 3-day domestic opening weekend than any other movie in 2025. Otherwise, this market will resolve to ""No"".
+
+Please note, this market will resolve according to the The Numbers figures provided under Weekend Box Office Performance for the 3-day weekend, regardless of whether domestic refers to only the USA, or to USA and Canada, etc.
+
+Resolution will be based specifically on the figures provided for this movie's 3-day opening weekend (Friday, Saturday, Sunday), regardless of whether the movie has a 4 or 5-day opening weekend.
+
+If another movie's opening weekend box office performance surpasses that of 'Thunderbolts*' (2025) after numbers for both are finalized, this market may immediately resolve to ""No"".
+
+If this movie's opening weekend box office performance ties with any other's, the movie whose title comes first in alphabetical order will win.
+
+If there is no final data available by January 31, 2026, 11:59 PM ET, another credible resolution source will be chosen.","[""Yes"", ""No""]",2025-12-31T12:00:00Z,990911.41,0,No,"[0.0, 1.0]",will-thunderbolts-have-the-best-domestic-opening-weekend-in-2025
+555647,Will the price of Bitcoin be between $107K and $108K on June 26 at 5PM ET?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT on the time and date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-06-26T21:00:00Z,99089.72,1,Yes,"[1.0, 0.0]",will-the-price-of-bitcoin-be-between-107k-and-108k-on-june-26-at-5pm-et
+1172394,"Will Elon Musk post 420-439 tweets from January 16 to January 23, 2026?","This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X from January 16 12:00 PM ET to January 23, 2026 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+Community reposts which are not counted by the tracker not count toward the total.
+
+The resolution source for this market is the 'Post Counter' figure for posts found at https://xtracker.polymarket.com. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.","[""Yes"", ""No""]",2026-01-23T17:00:00Z,990867.84,0,No,"[0.0, 1.0]",elon-musk-of-tweets-january-16-january-23-420-439
+626441,Will Al Kholood Saudi Club win on 2025-10-17?,"In the upcoming game, scheduled for October 17, 2025
+If Al Kholood Saudi Club wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-10-17T15:10:00Z,99073.78,1,Yes,"[1.0, 0.0]",spl-kho-njm-2025-10-17-kho
+693508,Ukraine strike on Moscow municipality by December 31?,"This market will resolve to ""Yes"" if the Ukrainian armed forces initiate a drone, missile, or air strike on Moscow municipality's soil on the listed date Moscow Standard Time (MSK). Otherwise, this market will resolve to ""No"".
+
+For the purposes of this market, a qualifying ""strike"" is defined as the use of aerial bombs, drones or missiles (including cruise or ballistic missiles) launched by Ukrainian armed forces that impact Moscow municipality's ground territory.
+
+A strike on any area within the terrestrial territory of the Moscow municipality counts.
+
+Missiles or drones that are intercepted and surface-to-air missile strikes will not be sufficient for a ""Yes"" resolution, regardless of whether they land on the Moscow municipality's territory or cause damage.
+
+Actions such as artillery fire, small arms fire, FPV or ATGM strikes, ground incursions, naval shelling, cyberattacks, or other operations conducted by the Ukrainian armed forces will not qualify.
+
+The primary resolution source will be official government/military statements (Ukrainian or Russian), multilateral bodies (UN, etc.), or a consensus of credible reporting from major international media and national broadcasters/newspapers.
+
+If the date/time of a strike cannot be confirmed by a consensus of credible reporting within 48 hours of this market's end date, it will resolve to ""No"" regardless of whether a strike was later confirmed to have taken place.","[""Yes"", ""No""]",2025-12-31T00:00:00Z,99070.24,0,No,"[0.0, 1.0]",ukraine-strike-on-moscow-municipality-by-december-31
+513592,Will Jake Paul fight Logan Paul next?,"This market will resolve to ""Yes"" if Logan Paul signs an agreement to fight Jake Paul by June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+This market will resolve based off the first signed or officially agreed fight between Jake Paul and another competitor. If Jake Paul signs an agreement or officially schedules a fight with another competitor first, this market will resolve to ""No"".  
+
+Any officially scheduled fight, wether boxing, MMA, or another form of combat sport will qualify. 
+
+The primary resolution source for this market will be announcements from Paul and his respective opponent or their official representatives, however a consensus of credible reporting will also be used.","[""Yes"", ""No""]",2025-06-30T12:00:00Z,99064.48,0,No,"[0.0, 1.0]",will-jake-paul-fight-logan-paul-next
+682534,Will the price of Solana be above $110 on November 21?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-11-21T17:00:00Z,99057.92,1,Yes,"[1.0, 0.0]",solana-above-110-on-november-21
+523063,Will Aston Villa win on 2025-02-25?,"In the upcoming EPL game, scheduled for February 25 at 2:30PM ET,
+If Aston Villa wins, this market will resolve to “Yes”.
+If Aston Villa loses, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.","[""Yes"", ""No""]",2025-02-25T19:30:00Z,99044.82,0,No,"[0.0, 1.0]",epl-cry-ast-2025-02-25-ast
+551936,Will Spain U21 beat Romania U21?,"In the upcoming UEFA European Under-21 game, scheduled for June 14 at 12:00 PM ET,
+If Spain wins, this market will resolve to “Yes”.
+Otherwise this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.","[""Yes"", ""No""]",2025-06-14T00:00:00Z,99040.06,1,Yes,"[1.0, 0.0]",will-spain-u21-beat-romania-u21
+628198,Will APT (Rosé and Bruno Mars) win Record of the Year at the 68th Annual GRAMMY Awards?,"The GRAMMY Awards are presented annually by the Recording Academy. For the 68th Annual GRAMMY Awards, nominations are scheduled for November 7, 2025, and the ceremony for February 1, 2026.
+
+This market will resolve according to the listed track that wins Record of the Year at the 68th Annual GRAMMY Awards.
+
+If, for any reason, no winner is declared by June 30, 2026, 11:59 PM ET, or in case of a tie for the winner, this market will resolve in favor of the listed track that comes first in alphabetical order.
+
+The resolution source will be the television broadcast of the awards and the Grammy website (https://www.grammy.com/); however, other credible reporting may be used.","[""Yes"", ""No""]",2026-02-01T00:00:00Z,99039.87,0,No,"[0.0, 1.0]",will-apt-ros-and-bruno-mars-win-record-of-the-year-at-the-68th-annual-grammy-awards
+540235,Will the Tampa Bay Buccaneers win Super Bowl 2026?,"This market will resolve to ""Yes"" if the Tampa Bay Buccaneers win Super Bowl LX. Otherwise, this market will resolve to ""No"".
+
+If at any point it becomes impossible for this team to win the Super Bowl based on the rules of the NFL (e.g. they are eliminated in the playoff bracket), this market will resolve immediately to ""No"".","[""Yes"", ""No""]",2026-02-08T12:00:00Z,9903531.61,0,No,"[0.0, 1.0]",will-the-tampa-bay-buccaneers-win-super-bowl-2026
+630270,Will the price of XRP be above $2.30 on October 17?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for XRP/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final “Close” price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the XRP/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/XRP_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance XRP/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-10-17T16:00:00Z,99035.27,1,Yes,"[1.0, 0.0]",xrp-above-2pt3-on-october-17
+563718,Will Andrónico Rodríguez win the most votes in the first round of the 2025 Bolivia presidential election?,"Bolivia's general elections are scheduled for 17 August 2025, with a runoff on 19 October if no candidate wins outright by securing over 50% of valid votes or at least 40% with a 10-point lead.
+
+This market will resolve according to the candidate who receives the greatest number of valid votes in the first round of voting.
+
+If the results of the first round of the Bolivian presidential election are not known by December 31, 2025, 11:59 PM ET, this market will resolve to ""Other"".
+
+This market will resolve based on the official results of the election, as reported by a consensus of credible reporting. If there is ambiguity, this market resolves based on the election results from the Bolivian government, specifically the Plurinational Electoral Body (Órgano Electoral Plurinacional, OEP) (https://www.oep.org.bo/).","[""Yes"", ""No""]",2025-08-17T00:00:00Z,990326.12,0,No,"[0.0, 1.0]",will-andrnico-rodrguez-win-the-most-votes-in-the-first-round-of-the-2025-bolivia-presidential-election
+563350,Will the price of Bitcoin be greater than $122K on July 15 at 5PM ET?,"This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT on the time and date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-07-15T21:00:00Z,99026.47,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-greater-than-122k-on-july-15-at-5pm-et
+703555,"Will the price of Bitcoin be between $92,000 and $94,000 on December 2?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-12-02T17:00:00Z,99019.91,0,No,"[0.0, 1.0]",will-the-price-of-bitcoin-be-between-92000-94000-on-december-2
+634372,Will Galatasaray SK win on 2025-11-09?,"In the upcoming game, scheduled for November 9, 2025
+If Galatasaray SK wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2025-11-09T14:00:00Z,99001.74,0,No,"[0.0, 1.0]",tur-koc-gal-2025-11-09-gal
+1373526,"Will the price of Bitcoin be above $66,000 on February 20?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-20T17:00:00Z,989914.16,1,Yes,"[1.0, 0.0]",bitcoin-above-66k-on-february-20
+928789,Will Cheltenham Town FC win on 2026-01-10?,"In the upcoming game, scheduled for January 10, 2026
+If Cheltenham Town FC wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-01-10T15:00:00Z,98981.63,0,No,"[0.0, 1.0]",efa-che3-lei-2026-01-10-che3
+581851,Will Google be the largest company in the world by market cap on September 30?,"This market will resolve to the largest company in the world by market cap on September 30, 2025, as of market close. 
+
+The resolution source for this market will be a consensus of credible reporting.","[""Yes"", ""No""]",2025-09-30T00:00:00Z,98978.42,0,No,"[0.0, 1.0]",will-google-be-the-largest-company-in-the-world-by-market-cap-on-september-30
+684410,Will the price of Solana be above $150 on November 22?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-11-22T17:00:00Z,98970.75,0,No,"[0.0, 1.0]",solana-above-150-on-november-22
+1473202,Will Solana reach $90 in March?,"This market will immediately resolve to ""Yes"" if any Binance 1 minute candle for SOL/USDT during the month specified in the title (from 00:00 AM ET on the first day to 11:59 PM ET on the last), has a final High price equal to or greater than the price specified in the title. Otherwise, this market will resolve to ""No.""
+
+The resolution source for this market is Binance, specifically the SOL/USDT High prices available at https://www.binance.com/en/trade/SOL_USDT, with the chart settings on ""1m"" for one-minute candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance SOL/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2026-04-01T04:00:00Z,98969.82,1,Yes,"[1.0, 0.0]",will-solana-reach-90-in-march-2026
+585315,Ethereum above $3900 on September 8?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final “Close” price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-09-08T16:00:00Z,98963.42,1,Yes,"[1.0, 0.0]",ethereum-above-3900-on-september-8
+513508,Eight Trump Cabinet confirmations in January? ,"This market will resolve to ""Yes"" if exactly 8 Trump Cabinet nominations are confirmed by the U.S. Senate by January 31, 2025, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+A Cabinet position is defined as any of the heads of the 15 executive departments or a role formally designated as Cabinet-level by the President. Advisory roles will not qualify for this market.
+
+The resolution source for this market is information from the U.S. Senate (see: https://www.senate.gov/legislative/NominationsRejectedorWithdrawn.htm), however a consensus of credible reporting may also be used.
+","[""Yes"", ""No""]",2025-01-31T12:00:00Z,98958.38,1,Yes,"[1.0, 0.0]",eight-trump-cabinet-confirmations-in-january
+581835,Will Trump meet with Vladimir Putin in September?,"This market will resolve to ""Yes"" if the listed individual meets with Donald Trump between September 1 and September 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to ""No"".
+
+A meeting is defined as any encounter where both the listed individual and Trump are present and interact with each other in person.
+
+The resolution source will be a consensus of credible reporting.","[""Yes"", ""No""]",2025-09-30T00:00:00Z,98958.01,0,No,"[0.0, 1.0]",will-trump-meet-with-vladimir-putin-in-september
+519017,Will Elon tweet 325-349 times Jan 17-24?,"This market will resolve according to the number of times Elon Musk (@elonmusk), posts on X between January 17, 2025, 12:00 PM ET and January 24, 2025, 12:00 PM ET.
+
+For the purposes of this market, only main feed posts, quote posts and reposts posts will count.
+
+Replies will NOT count towards the total - however, replies on the main feed such as https://x.com/elonmusk/status/1786073478711353576 will be counted by the tracker.
+
+Deleted posts will count as long as they remain available long enough to be captured by the tracker (~5 minutes).
+
+The resolution source for this market is the ‘Post Counter’ figure for posts found at https://www.xtracker.io/. Individual posts can be viewed by clicking ""Export Data"". If the tracker does not update correctly in accordance with the rules, X itself may be used as a secondary resolution source.
+","[""Yes"", ""No""]",2025-01-24T12:00:00Z,989577.98,1,Yes,"[1.0, 0.0]",elon-musk-of-tweets-january-17-24-will-elon-tweet-325-349-times-jan-17-24
+613970,Will the price of Solana be above $230 on October 3?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final “Close” price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-10-03T16:00:00Z,98952.97,1,Yes,"[1.0, 0.0]",solana-above-230-on-october-3
+520969,Will the highest temperature in London between 41-42°F on February 1?,"This market will resolve to the temperature range that contains the highest temperature recorded at the London City Airport Station in degrees Fahrenheit on February 1, 2025.
+
+The resolution source for this market will be information from Wunderground, specifically the highest temperature recorded for all times on this day by the Forecast for the London City Airport Station once information is finalized, available here: https://www.wunderground.com/history/daily/gb/london/EGLC.
+
+The resolution source for this market measures temperatures to whole degrees Fahrenheit (eg, 21°F). Thus, this is the level of precision that will be used when resolving the market.
+
+Any revisions to temperatures recorded after data is finalized for this market’s timeframe will not be considered for this market's resolution.
+","[""Yes"", ""No""]",2025-02-01T12:00:00Z,98944.05,0,No,"[0.0, 1.0]",will-the-highest-temperature-in-london-between-41-42f-on-february-1
+814089,Will Giannis Antetokounmpo be traded to the San Antonio Spurs?,"This market will resolve to the NBA team that officially acquires Giannis Antetokounmpo in a trade from the Milwaukee Bucks before the 2025-2026 NBA season trade deadline.
+
+If Giannis Antetokounmpo is cut, retires, is not on an NBA roster as of the resolution date, or otherwise remains on the Bucks through the NBA trade deadline, this market will resolve to ""Not Traded"".
+
+The primary resolution source for this market will be official information from the Milwaukee Bucks and/or the acquiring team; however, a consensus of credible reporting may also be used.","[""Yes"", ""No""]",2026-02-05T00:00:00Z,98943.93,0,No,"[0.0, 1.0]",will-giannis-antetokounmpo-be-traded-to-the-san-antonio-spurs
+650379,Over $4B committed to the MegaETH public sale?,"This market will resolve to “Yes” if total commitments for the MegaETH raise on Sonar exceeds $4B before the raise closes. Otherwise, it will resolve to “No.”
+
+The resolution source is the official raise page available at https://token.megaeth.com/
+
+If the final commitment amount cannot be verified by December 31, 2025, 11:59 PM ET, or if relevant information becomes permanently unavailable within the market timeframe, this market will resolve to “No.”","[""Yes"", ""No""]",2026-01-01T05:00:00Z,989317.44,0,No,"[0.0, 1.0]",over-4b-committed-to-the-megaeth-public-sale-752-459-935-742-742
+810213,"Will the price of Ethereum be above $3,000 on December 10?","This market will resolve to ""Yes"" if the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2025-12-10T17:00:00Z,98922.55,1,Yes,"[1.0, 0.0]",ethereum-above-3000-on-december-10
+1235118,Will the Liberal Democratic Party win 250 or more seats in the 2026 Japanese snap general election?,"General elections are scheduled to be held in Japan on February 8, 2026.
+
+This market will resolve according to the number of seats held by the Liberal Democratic Party (LDP) in the Japanese House of Representatives (衆議院, Shūgiin) as a result of the next Japanese general election.
+
+If the results of this election are not definitively known by November 30, 2026, 11:59 PM ET, this market will resolve to the lowest range bracket.
+
+This market's resolution will be based solely on the number of seats won by the Liberal Democratic Party (LDP), not any coalition or alliance of which it may be a part.
+
+This market will resolve based on the results of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results reported by the Japanese government, including the Ministry of Internal Affairs and Communications (https://www.soumu.go.jp/) or e-Stat (https://www.e-stat.go.jp/).","[""Yes"", ""No""]",2026-02-08T00:00:00Z,98917.03,1,Yes,"[1.0, 0.0]",will-the-liberal-democratic-party-win-250-or-more-seats-in-the-2026-japanese-snap-general-election
+513103,Will Elbridge Colby be Trump's Defense Secretary?,"This market will resolve to “Yes” if Donald Trump appoints Elbridge Colby as Secretary of Defense by June 30, 2025, 11:59 PM ET. Otherwise, this market will resolve to “No”.
+
+A candidate will be considered to have been appointed if they are confirmed to the position through a senate vote, appointed through a recess appointment, or are otherwise officially made the Secretary of Defense.
+
+This market will resolve based on the first Trump candidate who is appointed to this position - if another candidate is appointed to this position first, this market will immediately resolve to ""No"".
+
+The resolution source for this market is information from the U.S. Government. ","[""Yes"", ""No""]",2025-06-30T12:00:00Z,98912.11,0,No,"[0.0, 1.0]",will-elbridge-colby-be-trumps-defense-secretary
+1395006,"Will Iran close its airspace by February 28, 2026?","This market will resolve to “Yes” if Iran initiates a major closure of its airspace by the listed date, 11:59 PM ET. Otherwise this market will resolve to “No”.
+
+A “major closure” is defined as a broad clearance, cancellation, or suspension of commercial flights transiting Iranian Airspace or a major Iranian Airspace region. A qualifying closure must apply generally to flights across the region. Limited cancellations, delays, or other partial closures will not qualify. Limited exceptions to a broad closure, however, will not disqualify such a closure from counting (e.g. exceptions for certain flights pre-approved by the Iranian Civil Aviation Authority may be permitted). Any complete suspension of commercial arrivals and departures affecting at least two of the following airports will qualify: Imam Khomeini International Airport (IKA), Mehrabad Airport (THR), Mashhad International Airport (MHD), Shiraz International Airport (SYZ), or Isfahan International Airport (IFN).
+
+Qualifying previous examples include the January 2026 total closure of Iranian airspace except to international flights with expressed governmental permission (https://www.reuters.com/world/middle-east/iran-shuts-airspace-most-flights-flightradar24-says-2026-01-14/) and the April 2024 closure of Iran’s Western airspace (https://www.reuters.com/world/middle-east/iranian-airports-cancel-flights-until-monday-morning-2024-04-14/). Non-qualifying examples include the January 27, 2026 partial closure of Iranian airspace around the Strait of Hormuz (https://www.aa.com.tr/en/middle-east/iran-issues-airspace-notice-for-military-drills-near-strait-of-hormuz/3812508) and the January 25 - April 25, 2026 VFR (Visual Flight Rules) flights suspension which did not broadly close commercial aviation in a qualifying region (https://www.intellinews.com/iran-suspends-general-aviation-and-vfr-flights-in-new-airspace-directive-421997/).
+
+Warnings, No-Fly-Zones, or other flight restrictions imposed by airlines or nations ","[""Yes"", ""No""]",2026-03-31T00:00:00Z,98910.16,1,Yes,"[1.0, 0.0]",will-iran-close-its-airspace-by-february-28-2026
+626688,Will MrBeast's next video get between 70 and 80 million views on week 1?,"This market will resolve according to the number of views the next YouTube video posted by MrBeast gets in the first 7 days after being posted.
+
+If MrBeast does not post a YouTube video by January 31, 2026, 11:59 PM ET, this market will resolve to the lowest range bracket.
+
+If the reported value falls exactly between two brackets, this market will resolve to the higher range bracket.
+
+The resolution source for this is MrBeast's YouTube channel (https://www.youtube.com/@MrBeast), specifically the 'views' counter for the described video.
+
+Note: This market refers to MrBeast next video posted. Shorts, previews, or other videos released other than the referenced video will not be considered.","[""Yes"", ""No""]",2026-01-31T00:00:00Z,98909.48,0,No,"[0.0, 1.0]",will-mrbeasts-next-video-get-between-70-and-80-million-views-on-week-1
+1078726,Will SC Freiburg win on 2026-01-14?,"In the upcoming game, scheduled for January 14, 2026
+If SC Freiburg wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-01-14T19:30:00Z,98906.44,0,No,"[0.0, 1.0]",bun-lei-fre-2026-01-14-fre
+532847,Will Solana dip to $120 in April?,"This market will immediately resolve to ""Yes"" if any Binance 1 minute candle for Solana (SOLUSDT) between April 1, 2025, 00:00 and April 30, 2025, 23:59 in the ET timezone has a final ""Low"" price of $120.00 or lower. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOLUSDT ""Low"" prices available at https://www.binance.com/en/trade/SOL_USDT, with the chart settings on ""1m"" for one-minute candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance SOLUSDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2025-04-30T12:00:00Z,98905.26,1,Yes,"[1.0, 0.0]",will-solana-dip-to-120-in-april
+551120,Will the ECB announce an increase at the July meeting?,"This market will resolve to the amount of basis points the upper bound of the deposit facility rate is changed by versus the level it was prior to the European Central Bank's (ECB) July 2025 meeting.
+
+If the deposit facility rate is changed to a level not expressed in the displayed options, the change will be rounded up to the nearest 25 basis points and will resolve to the relevant bracket.
+For example, if the deposit facility rate is increased or decreased by 12.5 basis points, it will be treated as a 25 basis point change for the purposes of resolution.
+
+The resolution source for this market is information released by the European Central Bank after its July 24, 2025 policy meeting, as listed on the official ECB calendar:
+https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html
+
+The level and change of the deposit facility rate is also published at the official ECB interest rates page:
+https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html
+
+This market may resolve as soon as the ECB releases its interest rate decision following the July 24, 2025 meeting.
+
+If no interest rate decision or update is published by August 14, 2025, 11:59 PM ET, this market will resolve to the “No change” bracket.","[""Yes"", ""No""]",2025-07-24T12:00:00Z,98901.49,0,No,"[0.0, 1.0]",will-the-ecb-announce-an-increase-at-the-july-meeting-273
+540935,XRP above $2.20 on May 9?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for XRPUSDT 09 May '25 12:00 in the ET timezone (noon) has a final “Close” price of 2.20001 or higher. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the XRPUSDT ""Close"" prices currently available at https://www.binance.com/en/trade/XRP_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance XRPUSDT, not according to other sources or spot markets.01","[""Yes"", ""No""]",2025-05-09T12:00:00Z,98901.4,1,Yes,"[1.0, 0.0]",xrp-above-2pt20-on-may-9
+546859,XRP above $2.70 on May 30?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for XRP/USDT 30 May '25 12:00 in the ET timezone (noon) has a final “Close” price of 2.7001 or higher. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the XRP/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/XRP_USDT with “1m” and “Candles” selected on the top bar.
+
+Please note that this market is about the price according to Binance XRP/USDT, not according to other sources or spot markets.01","[""Yes"", ""No""]",2025-05-30T12:00:00Z,98898.29,0,No,"[0.0, 1.0]",xrp-above-2pt70-on-may-30
+522526,Will Nottingham Forest win on 2025-02-23?,"In the upcoming EPL game, scheduled for February 23 at 9:00AM ET,
+If Nottingham Forest wins, this market will resolve to “Yes”.
+If Nottingham Forest loses, this market will resolve to “No”.
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve “No”.","[""Yes"", ""No""]",2025-02-23T14:00:00Z,98887.51,0,No,"[0.0, 1.0]",epl-new-not-2025-02-23-not
+1278483,Will the price of Solana be above $120 on February 3?,"This market will resolve to ""Yes"" if the Binance 1 minute candle for SOL/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the SOL/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/SOL_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance SOL/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-03T17:00:00Z,98884.56,0,No,"[0.0, 1.0]",solana-above-120-on-february-3
+671315,"Will the price of Ethereum be between $3,100 and $3,200 on November 15?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2025-11-15T17:00:00Z,98884.12,1,Yes,"[1.0, 0.0]",will-the-price-of-ethereum-be-between-3100-3200-on-november-15
+572190,Will Ye be the top Spotify artist for 2025?,"Spotify releases an annual report of its most streamed artist (see: https://newsroom.spotify.com/2024-12-04/top-songs-artists-podcasts-audiobooks-albums-trends-2024/). This market refers to the most streamed Spotify artist for 2025. 
+
+If the above-listed artists are the most streamed Spotify artist for 2025, this market will resolve to ""Yes"". Otherwise, this market will resolve to ""No"".
+
+If Spotify does not release who their top artist for 2025 is by January 31, 2026, 11:59 PM ET, this market will resolve to ""No"". 
+
+The resolution source for this market will be official information from Spotify, typically released as part of Spotify Wrapped. ","[""Yes"", ""No""]",2025-12-31T00:00:00Z,9887489.91,0,No,"[0.0, 1.0]",will-ye-be-the-top-spotify-artist-for-2025
+1419257,"Will Ethereum reach $2,600 February 23-March 1?","This market will immediately resolve to ""Yes"" if any Binance 1-minute candle for ETH/USDT during the date range specified in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last) has a final ""High"" price equal to or greater than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""High"" prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on ""1m"" candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2026-03-02T05:00:00Z,98874.57,0,No,"[0.0, 1.0]",will-ethereum-reach-2600-february-23-march-1
+1259180,"Will the price of Ethereum be less than $2,500 on January 31?","This market will resolve according to the final ""Close"" price of the Binance 1 minute candle for ETH/USDT 12:00 in the ET timezone (noon) on the date specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+If the reported value falls exactly between two brackets, then this market will resolve to the higher range bracket.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Yes"", ""No""]",2026-01-31T17:00:00Z,98872.51,1,Yes,"[1.0, 0.0]",will-the-price-of-ethereum-be-less-than-2500-on-january-31
+555061,Ethereum Up or Down on June 25?,"This market will resolve to ""Up"" if the ""Close"" price for the Binance 1 minute candle for ETH/USDT 24 Jun '25 12:00 in the ET timezone (noon) is lower than the final ""Close"" price for the 25 Jun '25 12:00 ET candle.
+
+This market will resolve to ""Down"" if the ""Close"" price for the Binance 1 minute candle for ETH/USDT 24 Jun '25 12:00 in the ET timezone (noon) is higher than the final ""Close"" price for the 25 Jun '25 12:00 ET candle.
+
+If the final ""Close"" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETH/USDT, not according to other sources or spot markets.","[""Up"", ""Down""]",2025-06-25T16:00:00Z,988655.0,0,Down,"[0.0, 1.0]",ethereum-up-or-down-on-june-25
+519555,Will Fenerbahce beat Lyon?,"This market refers to the UEFA Europa League league stage match between Fenerbahce and Lyon scheduled for January 23, 2025, 12:45 PM ET.
+
+If Fenerbahce wins the match, this market will resolve to “Yes.” Otherwise, this market will resolve to “No.”
+
+If the game is canceled or delayed beyond January 30, 2025, 11:59 PM ET, this market will resolve to “No.”
+
+The resolution source for this market will be official information from the UEFA Europa League.","[""Yes"", ""No""]",2025-01-23T12:00:00Z,98861.99,0,No,"[0.0, 1.0]",will-fenerbahce-beat-lyon
+553006,Will another team win the 2025 Mid-Season Invitational?,"This market will resolve according to the winner of the 2025 League of Legends Mid-Season Invitational (MSI).
+
+If the tournament is postponed after July 28, 2025 (11:59 PM ET), canceled, or a winner has not been declared by that time, this market will resolve to “Other.”
+
+If multiple teams are officially declared co-winners, this market will resolve in favor of the team whose listed team name comes first alphabetically.
+
+The resolution source for this market will be official information from LoL Esports (https://lolesports.com/en-GB/tournament/113470835034591734/overview)","[""Yes"", ""No""]",2025-07-12T00:00:00Z,98858.8,0,No,"[0.0, 1.0]",will-another-team-win-the-2025-mid-season-invitational
+626550,Will Oscar Piastri win the 2025 F1 United States Grand Prix?,"This is a polymarket on the winner of the 2025 F1 United States Grand Prix, scheduled for October 19, 2025.
+
+If the 2025 F1 United States Grand Prix is canceled or rescheduled to a date after December 1, 2025, this market will resolve to “Other.”
+
+This market will resolve in favor of the driver who is officially listed in first place in the ""Final Classification"" published by the FIA following the conclusion of the race. The ""Final Classification"" is typically released 30–60 minutes after the race ends and includes any applied time penalties and official adjustments.
+
+Disqualifications or changes made after the publication of the ""Final Classification"" will not affect market resolution. The timing of the podium ceremony does not determine the result for this market — only the FIA's published classification will be used to resolve this market.
+
+The resolution source will be the official Formula 1 website and credible sports news reporting.","[""Yes"", ""No""]",2025-10-19T00:00:00Z,98841.35,0,No,"[0.0, 1.0]",will-oscar-piastri-win-the-2025-f1-united-states-grand-prix
+519067,Will Victor Ponta win the Romanian presidential election?,"The first round of the Romanian presidential election, originally held on November 24, 2024, was annulled by the Constitutional Court. On January 16, Romania's coalition government approved a re-run of the presidential election. It is scheduled for May 4, with a second round on May 18, if no candidate receives an absolute majority of the vote (see: https://www.reuters.com/world/europe/romania-confirms-date-tightens-rules-presidential-election-rerun-2025-01-16/).
+
+This market will resolve to the individual who wins the next Romanian presidential election including any potential second round.
+
+This market is inclusive of any election which results in the selection of the next Romanian President. For example, if Romania decides to recertify the results of the November 2024 election, this market would resolve accordingly.
+
+If the result of this election isn't known by December 31, 2025, 11:59 PM ET, the market group will resolve to ""Other"".
+
+This market will resolve based on the result of the election as indicated by a consensus of credible reporting. If there is ambiguity, this market will resolve based solely on the official results as reported by the Romanian Government, specifically the Permanent Electoral Authority (https://www.roaep.ro/prezentare/).
+","[""Yes"", ""No""]",2025-12-31T12:00:00Z,9883931.33,0,No,"[0.0, 1.0]",romania-presidential-election-winner-will-victor-ponta-win-the-romanian-presidential-election
+546558,Ethereum Up or Down on May 24?,"This market will resolve to ""Up"" if the ""Close"" price for the Binance 1 minute candle for ETHUSDT 23 May '25 12:00 in the ET timezone (noon) is lower than the final ""Close"" price for the 24 May '25 12:00 ET candle.
+
+This market will resolve to ""Down"" if the ""Close"" price for the Binance 1 minute candle for ETHUSDT 23 May '25 12:00 in the ET timezone (noon) is higher than the final ""Close"" price for the 24 May '25 12:00 ET candle.
+
+If the final ""Close"" price for both of these candles is exactly equal on Binance, this market will resolve 50-50.
+
+The resolution source for this market is Binance, specifically the ETHUSDT ""Close"" prices currently available at https://www.binance.com/en/trade/ETH_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance ETHUSDT, not according to other sources or spot markets.","[""Up"", ""Down""]",2025-05-24T12:00:00Z,988369.1,0,Down,"[0.0, 1.0]",ethereum-up-or-down-on-may-24
+1352086,Will ETSY (ETSY) beat quarterly earnings?,"As of market creation, ETSY is estimated to release earnings on February 19, 2026. The Street consensus estimate for ETSY's GAAP EPS for the relevant quarter is $0.85 as of market creation. This market will resolve to ""Yes"" if ETSY reports GAAP EPS greater than $0.85 for the relevant quarter in its next quarterly earnings release. Otherwise, it will resolve to ""No."" The resolution source will be the GAAP EPS listed in the company’s official earnings documents. 
+
+If ETSY releases earnings without GAAP EPS, then the market will resolve according to the GAAP EPS figure reported by SeekingAlpha. If no such figure is published within 96h of market close (4:00:00pm ET) on the day earnings are announced, the market will resolve to “No”.
+
+If the company does not release earnings within 45 calendar days of the estimated earnings date, this market will resolve to “No.” 
+
+Note: Subsequent restatements, corrections, or revisions made to the initially announced GAAP EPS figure will not qualify for resolution, except in the case of obvious and immediate mistakes (e.g., fat finger errors, as with Lyft's (LYFT) earnings release in February 2024).
+Note: The strike prices used in these markets are derived from SeekingAlpha estimates, and reflect the consensus of sell-side analyst estimates for GAAP EPS. 
+Note: All figures will be rounded to the nearest cent using standard rounding.
+Note: For the purposes of this market, IFRS EPS will be treated as GAAP EPS.
+Note: For the purposes of this market, GAAP EPS refers to diluted GAAP EPS, unless this is not published, in which case it refers to basic GAAP EPS.
+Note: All figures are expressed in USD, unless otherwise indicated.
+Note: For primarily internationally listed companies, this market refers specifically to the shares traded in the United States on U.S. stock exchanges such as the NYSE or Nasdaq. In cases where the company trades in the U.S. through an American Depositary Receipt (ADR) or American Depositary Share (ADS), this market ","[""Yes"", ""No""]",2026-02-19T14:00:00Z,98833.64,1,Yes,"[1.0, 0.0]",etsy-quarterly-earnings-gaap-eps-02-19-2026-0pt85
+1428929,Will the State of the Union be 150 minutes or longer?,"Donald Trump is scheduled to deliver the 2026 State of the Union address on February 24, 2026. 
+
+This market will resolve to ""Yes"" if Donald Trump's 2026 State of the Union address is equal to in length or longer than the specified number of minutes.
+
+The speech length will be measured from the start of when Trump begins audibly speaking at the podium during the State of the Union address until the moment he finishes his address. If Trump remains at the podium and continues speaking (e.g. saying ""Thank you"" to the crowd) this will not count toward the length of his address.
+
+If the 2026 State of the Union address is cancelled or delayed beyond March 31, 2026, this market will resolve to ""No"".","[""Yes"", ""No""]",2026-02-24T00:00:00Z,98828.92,0,No,"[0.0, 1.0]",will-the-state-of-the-union-be-150-minutes-or-longer-871
+1317154,"Will Ethereum reach $2,500 February 2-8?","This market will immediately resolve to ""Yes"" if any Binance 1-minute candle for ETH/USDT during the date range specified in the title (from 12:00 AM ET on the first date to 11:59 PM ET on the last) has a final ""High"" price equal to or greater than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the ETH/USDT ""High"" prices available at https://www.binance.com/en/trade/ETH_USDT, with the chart settings on ""1m"" candles selected on the top bar.
+
+Please note that the outcome of this market depends solely on the price data from the Binance ETH/USDT trading pair. Prices from other exchanges, different trading pairs, or spot markets will not be considered for the resolution of this market.","[""Yes"", ""No""]",2026-02-09T05:00:00Z,98825.56,0,No,"[0.0, 1.0]",will-ethereum-reach-2500-february-2-8
+530490,Poilievre out as leader of Conservatives in 2025?,"This market will resolve to ""Yes"" if Pierre Poilievre announces he is resigning as head of the Conservative Party of Canada or otherwise ceases to be head of the Conservative Party of Canada for any length of time between March 23, and December 31, 2025, 11:59 PM ET (inclusive). Otherwise, this market will resolve to ""No"".
+
+An announcement of Pierre Poilievre's resignation/removal before this market's end date will immediately resolve this market to ""Yes"", regardless of when the announced resignation/removal goes into effect.
+
+The primary resolution source for this market will be information from Pierre Poilievre or the Conservative Party of Canada, however a consensus of credible reporting will also be used.","[""Yes"", ""No""]",2025-12-31T12:00:00Z,988223.7,0,No,"[0.0, 1.0]",pierre-poilievre-out-as-leader-of-conservatives-in-2025
+1345822,"Will the price of Bitcoin be above $70,000 on February 13?","This market will resolve to ""Yes"" if the Binance 1 minute candle for BTC/USDT 12:00 in the ET timezone (noon) on the date specified in the title has a final ""Close"" price higher than the price specified in the title. Otherwise, this market will resolve to ""No"".
+
+The resolution source for this market is Binance, specifically the BTC/USDT ""Close"" prices currently available at https://www.binance.com/en/trade/BTC_USDT with ""1m"" and ""Candles"" selected on the top bar.
+
+Please note that this market is about the price according to Binance BTC/USDT, not according to other sources or spot markets.
+
+Price precision is determined by the number of decimal places in the source.","[""Yes"", ""No""]",2026-02-13T17:00:00Z,988123.14,0,No,"[0.0, 1.0]",bitcoin-above-70k-on-february-13
+1145490,Will Al Hilal Saudi Club win on 2026-02-05?,"In the upcoming game, scheduled for February 5, 2026
+If Al Hilal Saudi Club wins, this market will resolve to ""Yes"".
+Otherwise, this market will resolve to ""No"".
+If the game is postponed, this market will remain open until the game has been completed.
+If the game is canceled entirely, with no make-up game, this market will resolve ""No"".
+This market refers only to the outcome within the first 90 minutes of regular play plus stoppage time.","[""Yes"", ""No""]",2026-02-05T17:20:00Z,98812.06,1,Yes,"[1.0, 0.0]",spl-okh-hil-2026-02-05-hil
+1228677,Will Scottie Scheffler win the 2026 The American Express tournament?,"This market will resolve according to the listed player who wins the 2026 The American Express tournament.
+
+If a listed player is eliminated from contention for the 2026 The American Express tournament based on the official rules of the tournament, the relevant market will immediately resolve to ""No"".
+
+If an unlisted player wins the 2026 The American Express tournament this market will resolve to ""Other"".
+
+In the event of a tie, this market will resolve according to the official winner as determined by PGA Tour official tournament rules.
+
+If no winner is announced by February 7, 2026, 11:59 PM ET this market will resolve to ""Other"".
+
+The primary resolution source will be the official results published by the PGA Tour website (https://www.pgatour.com/).","[""Yes"", ""No""]",2026-01-25T23:55:00Z,98795.76,1,Yes,"[1.0, 0.0]",will-scottie-scheffler-win-the-2026-the-american-express-tournament-695

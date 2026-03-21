@@ -1,0 +1,15 @@
+{
+  "mode": "search-r1",
+  "model": "PeterJinGo/SearchR1-nq_hotpotqa_train-qwen2.5-3b-em-ppo",
+  "num_markets": 3,
+  "accuracy": 0.6667,
+  "avg_brier_score": 0.3333,
+  "accuracy_on_yes": 0.0,
+  "accuracy_on_no": 0.6667,
+  "num_yes_markets": 0,
+  "num_no_markets": 3,
+  "total_searches": 5,
+  "avg_searches_per_market": 1.67,
+  "parse_failures": 0,
+  "tavily_calls_used": 5
+}

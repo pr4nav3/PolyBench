@@ -1,0 +1,15 @@
+{
+  "mode": "baseline",
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "num_markets": 20,
+  "accuracy": 0.75,
+  "avg_brier_score": 0.25,
+  "accuracy_on_yes": 0.3333,
+  "accuracy_on_no": 0.8235,
+  "num_yes_markets": 3,
+  "num_no_markets": 17,
+  "total_searches": 0,
+  "avg_searches_per_market": 0.0,
+  "parse_failures": 0,
+  "tavily_calls_used": 0
+}
